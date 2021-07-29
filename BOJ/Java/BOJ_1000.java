@@ -1,6 +1,3 @@
-package com.boj.solved;
-
-
 import java.util.Scanner;
 
 public class BOJ_1000 {
