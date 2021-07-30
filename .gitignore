@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 bin/
+*/solving
 
 # Log file
 *.log
