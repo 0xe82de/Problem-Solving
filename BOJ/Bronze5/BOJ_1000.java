@@ -1,3 +1,4 @@
+package Bronze5;
 import java.util.Scanner;
 
 public class BOJ_1000 {
