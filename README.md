@@ -1,6 +1,4 @@
-# Problem Solving
-
-📝 Problem Solving
+# 📝 Problem Solving
 
 ## Categories
 
