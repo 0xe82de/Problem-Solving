@@ -8,4 +8,5 @@
 - [Bronze3](https://github.com/0xe82de/Problem-Solving/blob/master/boj/bronze3)
 - [Bronze4](https://github.com/0xe82de/Problem-Solving/blob/master/boj/bronze4)
 - [Bronze5](https://github.com/0xe82de/Problem-Solving/blob/master/boj/bronze5)
+- [Silver3](https://github.com/0xe82de/Problem-Solving/blob/master/boj/silver3)
 - [Silver4](https://github.com/0xe82de/Problem-Solving/blob/master/boj/silver4)
