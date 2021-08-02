@@ -1,4 +1,4 @@
-package solving;
+package bronze1;
 
 import java.util.Scanner;
 
