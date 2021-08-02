@@ -1,4 +1,4 @@
-package solving;
+package silver5;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
