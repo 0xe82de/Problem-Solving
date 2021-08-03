@@ -1,4 +1,4 @@
-package silver3;
+package boj.silver3;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

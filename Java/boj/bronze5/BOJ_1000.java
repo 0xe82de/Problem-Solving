@@ -1,4 +1,4 @@
-package bronze5;
+package boj.bronze5;
 import java.util.Scanner;
 
 public class BOJ_1000 {

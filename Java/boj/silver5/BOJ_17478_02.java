@@ -1,4 +1,4 @@
-package silver5;
+package boj.silver5;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 

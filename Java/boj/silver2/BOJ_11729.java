@@ -1,4 +1,4 @@
-package silver2;
+package boj.silver2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
