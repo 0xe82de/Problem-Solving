@@ -3,7 +3,7 @@ package silver5;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class BOJ_17478 {
+public class BOJ_17478_01 {
 	
 	private static void whatIsRecursive(int max, int cnt) {
 		
