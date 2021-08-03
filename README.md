@@ -1,6 +1,5 @@
 # 📝 Problem Solving
 
-## Categories
+## Languages
 
-- [BOJ](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj)
-- [SWEA](https://github.com/0xe82de/Problem-Solving/blob/master/Java/swea)
+- [Java](https://github.com/0xe82de/Problem-Solving/blob/master/Java)
