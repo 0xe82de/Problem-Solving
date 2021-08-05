@@ -54,7 +54,6 @@ public class SWEA_2805 {
 			src = row <= mid ? mid - row : src + 1;
 			dst = row <= mid ? mid + row : dst - 1;
 			
-			
 			for (int col = src; col <= dst; ++col) {
 				sum = sum + cropMap[row][col];
 			}
