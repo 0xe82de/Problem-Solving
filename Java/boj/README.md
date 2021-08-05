@@ -11,3 +11,4 @@
 - [Silver3](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver3)
 - [Silver4](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver4)
 - [Silver5](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver5)
+- [Gold5](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold5)
