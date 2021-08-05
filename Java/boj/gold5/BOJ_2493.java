@@ -2,7 +2,6 @@ package boj.gold5;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -16,41 +15,38 @@ public class BOJ_2493 {
 	private static int recur(int origin, int i) {
 		
 		if (topArr[i - 1] > origin) {
-			return i - 1;
+			return i;
 		} else {
 			if (resultArr[i - 1] == 0) {
 				return 0;
 			} else {
-				return recur(origin, resultArr[i - 1] + 1);
+				return recur(origin, resultArr[i - 1]);
 			}
 		}
 	}
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		
-//		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("input.txt")));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
 		StringBuilder sb = new StringBuilder();
 		
 		final int LEN_TOP = Integer.parseInt(br.readLine());
-		topArr = new int[LEN_TOP + 1];
-		resultArr = new int[LEN_TOP + 1];
+		topArr = new int[LEN_TOP];
+		resultArr = new int[LEN_TOP];
 		
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 		br.close();
 		
-		topArr[1] = Integer.parseInt(st.nextToken());
-		for (int i = 2; i <= LEN_TOP; ++i) {
+		topArr[0] = Integer.parseInt(st.nextToken());
+		sb.append(0 + " ");
+		for (int i = 1; i < LEN_TOP; ++i) {
 			topArr[i] = Integer.parseInt(st.nextToken());
 			resultArr[i] = recur(topArr[i], i);
+			sb.append(resultArr[i] + " ");
 		}
 		
-		for (int result : resultArr) {
-			sb.append(result + " ");
-		}
-		sb.delete(0, 2);
 		bw.write(sb.toString());
 		bw.flush();
 		bw.close();
