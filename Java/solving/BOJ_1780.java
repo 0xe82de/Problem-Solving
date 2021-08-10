@@ -1,4 +1,4 @@
-package boj.silver5;
+package solving;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
