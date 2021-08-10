@@ -1,4 +1,4 @@
-package solving;
+package boj.silver5;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -51,7 +51,7 @@ public class BOJ_1780 {
 		// N = 9, count = 1, 9, 27, ...
 		int count = (int) Math.pow(N, square);
 
-		int firstValue, srcRow, srcCol, dst;
+		int firstValue, srcRow, srcCol, dstRow, dstCol;
 		for (int cnt = 0; cnt < count; ++cnt) {
 			srcRow = cnt / 3 * 3;
 			dstRow = (int) (N / Math.pow(3, square));
@@ -59,8 +59,8 @@ public class BOJ_1780 {
 			dstCol = (int) (N / Math.pow(3, square));
 			firstValue = papers[srcRow][srcCol];
 			isDiff = false;
-			for (int r = srcRow; r < dst; ++r) {
-				for (int c = srcCol; c < dst; ++c) {
+			for (int r = srcRow; r < dstRow; ++r) {
+				for (int c = srcCol; c < dstCol; ++c) {
 					if (firstValue != papers[r][c]) {
 						isDiff = true;
 						break;
