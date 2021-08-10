@@ -15,38 +15,38 @@ public class BOJ_1780 {
 	
 	private static void getPapers(int[][] papers, int N, int square) {
 		
-//		if (square == 1) {
-//			for (int r = 0; r < papers.length; ++r) {
-//				for (int c = 0; c < papers.length; ++c) {
-//					++kinds[papers[r][c]];
-//				}
-//			}
-//			return;
-//		} else {
-//			// N = 9, count = 1, 9, 27, ...
-//			int count = (int) Math.pow(N, square);
-//			
-//			int firstValue, srcRow, srcCol;
-//			for (int cnt = 0; cnt < count; ++cnt) {
-//				srcRow = cnt / 3 * 3;
-//				srcCol = cnt * 3 % 9;
-//				firstValue = papers[srcRow][srcCol];
-//				isDiff = false;
-//				for (int r = srcRow; r < N / Math.pow(3, square); ++r) {
-//					for (int c = srcCol; c < N / Math.pow(3, square); ++c) {
-//						if (firstValue != papers[r][c]) {
-//							isDiff = true;
-//							break;
-//						}
-//					}
-//					if (isDiff) break;
-//				}
-//				if (!isDiff) ++kinds[firstValue];
-//				else {
-//					getPapers(papers, N, square + 1);
-//				}
-//			}
-//		}
+		if (square == 1) {
+			for (int r = 0; r < papers.length; ++r) {
+				for (int c = 0; c < papers.length; ++c) {
+					++kinds[papers[r][c]];
+				}
+			}
+			return;
+		} else {
+			// N = 9, count = 1, 9, 27, ...
+			int count = (int) Math.pow(N, square);
+			
+			int firstValue, srcRow, srcCol;
+			for (int cnt = 0; cnt < count; ++cnt) {
+				srcRow = cnt / 3 * 3;
+				srcCol = cnt * 3 % 9;
+				firstValue = papers[srcRow][srcCol];
+				isDiff = false;
+				for (int r = srcRow; r < N / Math.pow(3, square); ++r) {
+					for (int c = srcCol; c < N / Math.pow(3, square); ++c) {
+						if (firstValue != papers[r][c]) {
+							isDiff = true;
+							break;
+						}
+					}
+					if (isDiff) break;
+				}
+				if (!isDiff) ++kinds[firstValue];
+				else {
+					getPapers(papers, N, square + 1);
+				}
+			}
+		}
 
 		// N = 9, count = 1, 9, 27, ...
 		int count = (int) Math.pow(N, square);
