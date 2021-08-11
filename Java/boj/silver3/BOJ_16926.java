@@ -1,4 +1,4 @@
-package solving;
+package boj.silver3;
 
 import java.io.IOException;
 import java.io.BufferedReader;
