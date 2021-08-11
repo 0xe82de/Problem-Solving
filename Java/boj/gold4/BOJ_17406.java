@@ -33,13 +33,13 @@ public class BOJ_17406 {
 		}
 			
 		// 맨밑
-		// 오른쪽으로 이동
+		// 왼쪽으로 이동
 		for (int i = srcCol; i < dstCol; ++i) {
 			arr[dstRow][i] = arr[dstRow][i + 1];
 		}
 			
 		// 맨오른쪽
-		// 위쪽으로 이동
+		// 아래쪽으로 이동
 		for (int i = dstRow; i > srcRow; --i) {
 			arr[i][dstCol] = arr[i - 1][dstCol];
 		}
