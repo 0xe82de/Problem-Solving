@@ -70,10 +70,12 @@ public class BOJ_16926 {
 			}
 		}
 		
+		// logic
 		for (int i = 0; i < CNT; ++i) {
 			rotate(arr, ROW, COL, 0, maxRC);
 		}
 		
+		// output
 		for (int[] r : arr) {
 			for (int c : r) {
 				sb.append(c + " ");
