@@ -15,11 +15,11 @@ public class BOJ_16926 {
 		else {
 			int start = arr[src][src];
 			
-			// 맨위
-			// 왼쪽으로 이동
 			int dstCol = baseCol - src - 1;
 			int dstRow = baseRow - src - 1;
 			
+			// 맨위
+			// 왼쪽으로 이동
 			for (int i = src; i < dstCol; ++i) {
 				arr[src][i] = arr[src][i + 1];
 			}
