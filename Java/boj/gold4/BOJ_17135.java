@@ -150,7 +150,10 @@ public class BOJ_17135 {
 							int ncRight = m + c;
 							
 							// 왼쪽 또는 가운데 적 확인
-							if (ncLeft >= 0 && map[nr][ncLeft] == 1) compute(N, m, nr, ncLeft);
+							if (ncLeft >= 0 && map[nr][ncLeft] == 1) {
+								compute(N, m, nr, ncLeft);
+								break;
+							}
 							
 							// 공격 범위가 1이면 위 if문에서 가운데 적을 조회하므로 for문을 continue
 							if (c == 0) continue;
