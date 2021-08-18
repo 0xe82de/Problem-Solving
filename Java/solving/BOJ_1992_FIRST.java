@@ -70,7 +70,7 @@ LOOP:		for (int r = srcRow, dstRow = srcRow + n; r < dstRow; ++r)
 			{
 				for (int c = srcCol, dstCol = srcCol +n; c < dstCol; ++c)
 				{
-					// 기준 값과 다르면 더 작은 영상으로 쪼개야 하므로 break
+					// 기준 값과 다르면 더 작은 영상으로 분할해야 하므로 break
 					if (base != video[r][c])
 					{
 						isDiff = true;
@@ -81,7 +81,7 @@ LOOP:		for (int r = srcRow, dstRow = srcRow + n; r < dstRow; ++r)
 			
 			if (isDiff) 
 			{
-				// 기준 값과 영상 내의 값이 다르면 더 작은 영상으로 쪼갠다.
+				// 기준 값과 영상 내의 값이 다르면 더 작은 영상으로 분할한다.
 				
 				// 재귀를 들어가기 전에 "(" 붙인다.
 				sb.append("(");
