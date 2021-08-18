@@ -33,7 +33,7 @@ public class jungol_1828 {
 			temp[i][MAX] = Integer.parseInt(st.nextToken());
 		}
 		
-		Arrays.sort(temp, (int[] o1, int[] o2) -> o1[MAX] - o2[MAX]);
+		Arrays.sort(temp, (o1, o2) -> o1[MAX] - o2[MAX]);
 		
 		Queue<int[]> queue = new LinkedList<>();
 		for (int i = 0; i < N; ++i) {
