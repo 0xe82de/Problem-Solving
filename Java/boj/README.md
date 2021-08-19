@@ -4,6 +4,7 @@
 
 ## Level
 
+- [Gold2](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold2)
 - [Gold4](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold4)
 - [Gold5](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold5)
 - [Silver1](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver1)
