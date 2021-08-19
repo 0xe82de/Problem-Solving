@@ -28,7 +28,6 @@ import java.util.StringTokenizer;
 
 public class BOJ_3109
 {
-	
 	static final char EMPTY = '.';
 	static final char WALL = 'x';
 	static final char PIPE = 'P';
