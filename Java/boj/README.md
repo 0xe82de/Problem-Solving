@@ -44,11 +44,11 @@
 
 ### Silver 1
 
-| 순번 | 번호 |                       이름                       |                                               코드                                               | 풀이 | 비고 | 복습 필요 | 푼 횟수 |
-| :--: | :--: | :----------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--: | :--: | :-------: | :-----: |
-|  1   | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java) |  -   |  -   |     O     |    1    |
-|  2   | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java) |  -   |  -   |     -     |    2    |
-|  ?   |  ?   |                      [?](?)                      |                                            [Github]()                                            |  -   |  -   |     -     |    1    |
+| 순번 | 번호 |                       이름                       |                                               코드                                               |                 풀이                  | 비고 | 복습 필요 | 푼 횟수 |
+| :--: | :--: | :----------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------: | :--: | :-------: | :-----: |
+|  1   | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java) |                   -                   |  -   |     O     |    1    |
+|  2   | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java) | [Blog](https://0xe82de.tistory.com/2) |  -   |     -     |    2    |
+|  ?   |  ?   |                      [?](?)                      |                                            [Github]()                                            |                   -                   |  -   |     -     |    1    |
 
 ### Silver 2
 
