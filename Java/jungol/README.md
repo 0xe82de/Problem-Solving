@@ -2,8 +2,6 @@
 
 📝 JUNGOL
 
-## Level
-
 ## Problem List
 
 ### Intermediate_Corder
