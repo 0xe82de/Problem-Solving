@@ -1,4 +1,4 @@
-# Problem-Solving / JUNGOL
+# Problem-Solving using Java
 
 📝 JUNGOL
 

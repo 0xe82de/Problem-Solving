@@ -1,4 +1,4 @@
-# Problem-Solving / SWEA
+# Problem-Solving using Java
 
 📝 SW Expert Academy
 

@@ -1,4 +1,4 @@
-# Problem-Solving / BOJ
+# Problem-Solving using Java
 
 📝 Baekjoon Online Judge
 
