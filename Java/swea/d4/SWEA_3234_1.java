@@ -1,4 +1,4 @@
-package solving;
+package swea.d4;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,10 +19,9 @@ import java.util.StringTokenizer;
 /*
  * 풀이 전 꼐획
  * 
- * 1. 모든 추의 합을 계한한다.
+ * 1. 모든 추의 합을 계산한다.
  * 2. 부분집합을 생성하면서 생성된 부분집합의 합이 (모든 추의 합 - 부분집합의 합) 보다 작을 때 카운팅한다.
  * 
- * -> 실패
  * https://data-make.tistory.com/490
  * 위를 참고해보면 모든 추의 순열을 생성하고, 왼쪽부터 추를 올린다.
  * 오른쪽에 추를 올렸을 때 왼쪽보다 작다면 오른쪽에 추를 올려본다.
@@ -93,7 +92,7 @@ public class SWEA_3234_1
 		// 오른쪽이 커지면 안되기 때문에 무조건 왼쪽부터 추를 올린다.
 		check(choo, n, cnt + 1, sumL + choo[cnt], sumR);
 		
-		// 오른쪽에 추를 올렷을 때 왼쪽보다 작다면 오른쪽에 추를 올린다.
+		// 오른쪽에 추를 올렸을 때 왼쪽보다 작다면 오른쪽에 추를 올린다.
 		if (sumR + choo[cnt] <= sumL)
 		{
 			check(choo, n, cnt + 1, sumL, sumR + choo[cnt]);
