@@ -72,10 +72,11 @@
 | 순번 | 번호  |                         이름                         |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
 |  1   | 1978  |  [소수 찾기](https://www.acmicpc.net/problem/1978)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1978_1.java)  |  -   |    1    |     -     |  -   |
-|  2   | 9012  |     [괄호](https://www.acmicpc.net/problem/9012)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |  -   |
-|  3   | 10825 |   [국영수](https://www.acmicpc.net/problem/10825)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |  -   |
-|  4   | 10845 |     [큐](https://www.acmicpc.net/problem/10845)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |  -   |
-|  5   | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |  -   |
+|  2   | 2217  |     [로프](https://www.acmicpc.net/problem/2217)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |  -   |
+|  3   | 9012  |     [괄호](https://www.acmicpc.net/problem/9012)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |  -   |
+|  4   | 10825 |   [국영수](https://www.acmicpc.net/problem/10825)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |  -   |
+|  5   | 10845 |     [큐](https://www.acmicpc.net/problem/10845)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |  -   |
+|  6   | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |  -   |
 |  ?   |   ?   |                        [?](?)                        |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Silver 5
