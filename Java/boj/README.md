@@ -77,6 +77,7 @@
 |  4   | 10825 |   [국영수](https://www.acmicpc.net/problem/10825)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |  -   |
 |  5   | 10845 |     [큐](https://www.acmicpc.net/problem/10845)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |  -   |
 |  6   | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |  -   |
+|  7   | 13305 |   [주유소](https://www.acmicpc.net/problem/13305)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |  -   |
 |  ?   |   ?   |                        [?](?)                        |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Silver 5
