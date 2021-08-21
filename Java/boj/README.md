@@ -83,11 +83,12 @@
 | 순번 | 번호  |                            이름                             |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :---------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
 |  1   | 1158  |    [요세푸스 문제](https://www.acmicpc.net/problem/1158)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1158_2.java)  |  -   |    2    |     O     |  -   |
-|  2   | 1476  |      [날짜 계산](https://www.acmicpc.net/problem/1476)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1476_1.java)  |  -   |    1    |     -     |  -   |
-|  3   | 2563  |       [색종이](https://www.acmicpc.net/problem/2563)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2563_1.java)  |  -   |    1    |     -     |  -   |
-|  4   | 10989 |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10989_1.java) |  -   |    1    |     O     |  -   |
-|  5   | 11728 |    [배열 합치기](https://www.acmicpc.net/problem/11728)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |  -   |    1    |     -     |  -   |
-|  6   | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_2.java) |  -   |    2    |     O     |  -   |
+|  2   | 1439  |       [뒤집기](https://www.acmicpc.net/problem/1439)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1439_1.java)  |  -   |    1    |     -     |  -   |
+|  3   | 1476  |      [날짜 계산](https://www.acmicpc.net/problem/1476)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1476_1.java)  |  -   |    1    |     -     |  -   |
+|  4   | 2563  |       [색종이](https://www.acmicpc.net/problem/2563)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2563_1.java)  |  -   |    1    |     -     |  -   |
+|  5   | 10989 |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10989_1.java) |  -   |    1    |     O     |  -   |
+|  6   | 11728 |    [배열 합치기](https://www.acmicpc.net/problem/11728)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |  -   |    1    |     -     |  -   |
+|  7   | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_2.java) |  -   |    2    |     O     |  -   |
 |  ?   |   ?   |                           [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 1
