@@ -64,7 +64,7 @@ public class BOJ_1260_3 {
 		sb.append("\n");
 		
 		// bfs
-		bfs(adjList, N, V, new boolean[N + 1]);
+		bfs(adjList, V, new boolean[N + 1]);
 		
 		// 출력
 		bw.write(sb.toString());
@@ -74,6 +74,11 @@ public class BOJ_1260_3 {
 		br.close();
 	}
 	
+	/**
+	 * @param adjList : 인접리스트
+	 * @param current : 현재 방문한 노드
+	 * @param isVisit : 방문 체크
+	 */
 	private static void dfs(Node[] adjList, int current, boolean[] isVisit) {
 		
 		isVisit[current] = true;
@@ -88,7 +93,12 @@ public class BOJ_1260_3 {
 		}
 	}
 	
-	private static void bfs(Node[] adjList, int n, int current, boolean[] isVisit) {
+	/**
+	 * @param adjList : 인접리스트
+	 * @param current : 현재 방문한 노드
+	 * @param isVisit : 방문 체크
+	 */
+	private static void bfs(Node[] adjList, int current, boolean[] isVisit) {
 		
 		Queue<Integer> queue = new LinkedList<>();
 		
