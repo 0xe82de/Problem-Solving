@@ -56,6 +56,11 @@ public class BOJ_2331_1 {
 		br.close();
 	}
 	
+	/**
+	 * @param number : 제곱할 값
+	 * @param n : n 제곱
+	 * @return
+	 */
 	private static int pow(int number, int n) {
 		
 		int result = 1;
