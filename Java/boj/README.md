@@ -110,7 +110,8 @@
 | 순번 | 번호 |                              이름                               |                                               코드                                               | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :--: | :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
 |  1   | 1152 |       [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1152_1.java) |  -   |    1    |     -     |  -   |
-|  2   | 3040 | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java) |  -   |    1    |     -     |  -   |
+|  2   | 2798 |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_1.java) |  -   |    1    |     O     | 조합 |
+|  3   | 3040 | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java) |  -   |    1    |     -     |  -   |
 |  ?   |  ?   |                             [?](?)                              |                                            [Github]()                                            |  -   |    1    |     -     |  -   |
 
 ### Bronze 3
