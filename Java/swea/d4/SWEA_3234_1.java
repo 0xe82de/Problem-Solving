@@ -2,7 +2,6 @@ package swea.d4;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -32,11 +31,9 @@ public class SWEA_3234_1
 {
 	static int count;
 	static boolean[] isSelected;
-	static int totalWeight;
 	
 	public static void main(String[] args) throws NumberFormatException, IOException
 	{
-		System.setIn(new FileInputStream("input.txt"));
 		// 변수 설정
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -60,7 +57,6 @@ public class SWEA_3234_1
 			for (int i = 0; i < N; ++i)
 			{
 				choo[i] = Integer.parseInt(st.nextToken());
-				totalWeight += choo[i];
 			}
 			
 			count = 0;
