@@ -1,6 +1,5 @@
 package boj.gold;
 
-import java.io.FileInputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -53,7 +52,6 @@ public class BOJ_1753_1 {
 
 	public static void main(String[] args) throws IOException {
 		
-		System.setIn(new FileInputStream("input.txt"));
 		// 변수 설정
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
