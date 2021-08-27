@@ -104,7 +104,8 @@
 |  2   | 1157  |              [단어 공부](https://www.acmicpc.net/problem/1157)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1157_1.java)  |  -   |    1    |     -     |  -   |
 |  3   | 1546  |                 [평균](https://www.acmicpc.net/problem/1546)                 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1546_1.java)  |  -   |    1    |     -     |  -   |
 |  4   | 2669  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2669_1.java)  |  -   |    1    |     -     |  -   |
-|  5   | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |  -   |
+|  5   | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |  -   |
+|  6   | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |  -   |
 |  ?   |   ?   |                                    [?](?)                                    |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 2
