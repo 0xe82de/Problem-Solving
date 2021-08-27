@@ -109,14 +109,15 @@
 
 ### Bronze 2
 
-| 순번 | 번호 |                              이름                               |                                               코드                                               | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :--: | :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1152 |       [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1152_1.java) |  -   |    1    |     -     |  -   |
-|  2   | 2309 |       [일곱 난쟁이](https://www.acmicpc.net/problem/2309)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2309_1.java) |  -   |    1    |     -     |  -   |
-|  3   | 2605 |        [줄 세우기](https://www.acmicpc.net/problem/2605)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2605_1.java) |  -   |    1    |     -     | 구현 |
-|  4   | 2798 |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_1.java) |  -   |    1    |     O     | 조합 |
-|  5   | 3040 | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java) |  -   |    1    |     -     |  -   |
-|  ?   |  ?   |                             [?](?)                              |                                            [Github]()                                            |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                              이름                               |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
+| :--: | :---: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
+|  1   | 1152  |       [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1152_1.java)  |  -   |    1    |     -     |  -   |
+|  2   | 2309  |       [일곱 난쟁이](https://www.acmicpc.net/problem/2309)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2309_1.java)  |  -   |    1    |     -     |  -   |
+|  3   | 2605  |        [줄 세우기](https://www.acmicpc.net/problem/2605)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2605_1.java)  |  -   |    1    |     -     | 구현 |
+|  4   | 2798  |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_1.java)  |  -   |    1    |     O     | 조합 |
+|  5   | 3040  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java)  |  -   |    1    |     -     |  -   |
+|  6   | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |  -   |
+|  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 3
 
