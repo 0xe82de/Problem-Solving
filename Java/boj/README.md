@@ -72,7 +72,7 @@
 
 | 순번 | 번호  |                           이름                           |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1244  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1244_1.java)  |  -   |    1    |     -     |  -   |
+|  1   | 1244  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1244_1.java)  |  -   |    1    |     -     | 구현 |
 |  2   | 1978  |    [소수 찾기](https://www.acmicpc.net/problem/1978)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1978_1.java)  |  -   |    1    |     -     |  -   |
 |  3   | 2217  |       [로프](https://www.acmicpc.net/problem/2217)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |  -   |
 |  4   | 2331  |     [반복수열](https://www.acmicpc.net/problem/2331)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2331_1.java)  |  -   |    1    |     O     |  -   |
