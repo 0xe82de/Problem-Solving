@@ -21,6 +21,7 @@ public class BOJ_3052_1 {
 			sum += arr[i];
 		}
 		
+		// output
 		System.out.print(sum);
 		
 		// io close
