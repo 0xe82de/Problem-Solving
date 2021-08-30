@@ -130,7 +130,7 @@
 
 | 순번 | 번호  |                              이름                              |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 2438  |      [별 찍기 - 1](https://www.acmicpc.net/problem/2438)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2438_1.java)  |  -   |    1    |     -     |  -   |
+|  1   | 2438  |      [별 찍기 - 1](https://www.acmicpc.net/problem/2438)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2438_1.java)  |  -   |    1    |     -     | 구현 |
 |  2   | 2884  |       [알람 시계](https://www.acmicpc.net/problem/2884)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2884_1.java)  |  -   |    1    |     -     |  -   |
 |  3   | 8320  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8320_1.java)  |  -   |    1    |     O     |  -   |
 |  4   | 10817 |         [세 수](https://www.acmicpc.net/problem/10817)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10817_1.java) |  -   |    1    |     -     |  -   |
