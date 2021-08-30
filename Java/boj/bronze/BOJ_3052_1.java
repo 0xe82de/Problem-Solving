@@ -13,7 +13,7 @@ public class BOJ_3052_1 {
 		int[] arr = new int[N];
 		
 		for (int i = 0; i < 10; ++i) {
-			arr[sc.nextInt() % 42] = 1;
+			arr[sc.nextInt() % N] = 1;
 		}
 		
 		int sum = 0;
