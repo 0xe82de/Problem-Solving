@@ -131,12 +131,13 @@
 | 순번 | 번호  |                              이름                              |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
 |  1   | 2438  |      [별 찍기 - 1](https://www.acmicpc.net/problem/2438)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2438_1.java)  |  -   |    1    |     -     | 구현 |
-|  2   | 2884  |       [알람 시계](https://www.acmicpc.net/problem/2884)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2884_1.java)  |  -   |    1    |     -     |  -   |
-|  3   | 8320  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8320_1.java)  |  -   |    1    |     O     |  -   |
-|  4   | 10817 |         [세 수](https://www.acmicpc.net/problem/10817)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10817_1.java) |  -   |    1    |     -     |  -   |
-|  5   | 10869 |       [사칙연산](https://www.acmicpc.net/problem/10869)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10869_1.java) |  -   |    1    |     -     |  -   |
-|  6   | 10950 |        [A+B - 3](https://www.acmicpc.net/problem/10950)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10950_1.java) |  -   |    1    |     -     |  -   |
-|  7   | 10951 |        [A+B - 4](https://www.acmicpc.net/problem/10951)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10951_1.java) |  -   |    1    |     -     |  -   |
+|  2   | 2439  |      [별 찍기 - 2](https://www.acmicpc.net/problem/2439)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2439_1.java)  |  -   |    1    |     -     | 구현 |
+|  3   | 2884  |       [알람 시계](https://www.acmicpc.net/problem/2884)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2884_1.java)  |  -   |    1    |     -     |  -   |
+|  4   | 8320  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8320_1.java)  |  -   |    1    |     O     |  -   |
+|  5   | 10817 |         [세 수](https://www.acmicpc.net/problem/10817)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10817_1.java) |  -   |    1    |     -     |  -   |
+|  6   | 10869 |       [사칙연산](https://www.acmicpc.net/problem/10869)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10869_1.java) |  -   |    1    |     -     |  -   |
+|  7   | 10950 |        [A+B - 3](https://www.acmicpc.net/problem/10950)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10950_1.java) |  -   |    1    |     -     |  -   |
+|  8   | 10951 |        [A+B - 4](https://www.acmicpc.net/problem/10951)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10951_1.java) |  -   |    1    |     -     |  -   |
 |  ?   |   ?   |                             [?](?)                             |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 4
