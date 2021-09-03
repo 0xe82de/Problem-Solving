@@ -149,7 +149,7 @@
 |  9   | 10869 |       [사칙연산](https://www.acmicpc.net/problem/10869)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10869_1.java) |  -   |    1    |     -     |  -   |
 |  10  | 10950 |        [A+B - 3](https://www.acmicpc.net/problem/10950)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10950_1.java) |  -   |    1    |     -     |  -   |
 |  11  | 10951 |        [A+B - 4](https://www.acmicpc.net/problem/10951)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10951_1.java) |  -   |    1    |     -     |  -   |
-|  12  | 10952 |        [A+B - 5](https://www.acmicpc.net/problem/10952)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10952_1.java) |  -   |    1    |     -     |  -   |
+|  12  | 10952 |        [A+B - 5](https://www.acmicpc.net/problem/10952)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10952_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                             [?](?)                             |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 4
