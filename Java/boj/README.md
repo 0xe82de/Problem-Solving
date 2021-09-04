@@ -130,7 +130,8 @@
 |  10  | 3040  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java)  |  -   |    1    |     -     |  -   |
 |  11  | 3052  |         [나머지](https://www.acmicpc.net/problem/3052)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3052_2.java)  |  -   |    2    |     -     | 수학 |
 |  12  | 8958  |         [OX퀴즈](https://www.acmicpc.net/problem/8958)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8958_1.java)  |  -   |    1    |     -     | 구현 |
-|  13  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |  -   |
+|  13  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     | 구현 |
+|  14  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |  -   |
 |  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 3
@@ -183,5 +184,5 @@
 |  13  | 10430 |       [나머지](https://www.acmicpc.net/problem/10430)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10430_1.java) |  -   |    1    |     -     |  -   |
 |  14  | 10718 |   [We love kriii](https://www.acmicpc.net/problem/10718)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10718_1.java) |  -   |    1    |     -     |  -   |
 |  15  | 10998 |        [A×B](https://www.acmicpc.net/problem/10998)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10998_1.java) |  -   |    1    |     -     |  -   |
-|  16  | 11654 |    [아스키 코드](https://www.acmicpc.net/problem/11654)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11654_1.java) |  -   |    1    |     -     |  -   |
+|  16  | 11654 |    [아스키 코드](https://www.acmicpc.net/problem/11654)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11654_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                           [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
