@@ -149,9 +149,10 @@
 |  7   | 10817 |         [세 수](https://www.acmicpc.net/problem/10817)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10817_1.java) |  -   |    1    |     -     |  -   |
 |  8   | 10818 |      [최소, 최대](https://www.acmicpc.net/problem/10818)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10818_1.java) |  -   |    1    |     -     |  -   |
 |  9   | 10869 |       [사칙연산](https://www.acmicpc.net/problem/10869)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10869_1.java) |  -   |    1    |     -     |  -   |
-|  10  | 10950 |        [A+B - 3](https://www.acmicpc.net/problem/10950)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10950_1.java) |  -   |    1    |     -     |  -   |
-|  11  | 10951 |        [A+B - 4](https://www.acmicpc.net/problem/10951)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10951_1.java) |  -   |    1    |     -     |  -   |
-|  12  | 10952 |        [A+B - 5](https://www.acmicpc.net/problem/10952)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10952_1.java) |  -   |    1    |     -     | 구현 |
+|  10  | 10871 |     [X보다 작은 수](https://www.acmicpc.net/problem/10871)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10871_1.java) |  -   |    1    |     -     | 구현 |
+|  11  | 10950 |        [A+B - 3](https://www.acmicpc.net/problem/10950)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10950_1.java) |  -   |    1    |     -     |  -   |
+|  12  | 10951 |        [A+B - 4](https://www.acmicpc.net/problem/10951)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10951_1.java) |  -   |    1    |     -     |  -   |
+|  13  | 10952 |        [A+B - 5](https://www.acmicpc.net/problem/10952)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10952_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                             [?](?)                             |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 4
