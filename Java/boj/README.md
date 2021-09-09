@@ -108,11 +108,12 @@
 |  1   | 1032  |            [명령 프롬프트](https://www.acmicpc.net/problem/1032)             | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1032_1.java)  |  -   |    1    |     -     |  -   |
 |  2   | 1157  |              [단어 공부](https://www.acmicpc.net/problem/1157)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1157_1.java)  |  -   |    1    |     -     |  -   |
 |  3   | 1546  |                 [평균](https://www.acmicpc.net/problem/1546)                 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1546_1.java)  |  -   |    1    |     -     |  -   |
-|  4   | 2669  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2669_1.java)  |  -   |    1    |     -     |  -   |
-|  5   | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |  -   |
-|  6   | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |  -   |
-|  7   | 11719 |          [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11719_1.java) |  -   |    1    |     -     | 구현 |
-|  8   | 14696 |              [딱지놀이](https://www.acmicpc.net/problem/14696)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14696_1.java) |  -   |    1    |     -     |  -   |
+|  4   | 1924  |                [2007년](https://www.acmicpc.net/problem/1924)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1924_1.java)  |  -   |    1    |     -     | 구현 |
+|  5   | 2669  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2669_1.java)  |  -   |    1    |     -     |  -   |
+|  6   | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |  -   |
+|  7   | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |  -   |
+|  8   | 11719 |          [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11719_1.java) |  -   |    1    |     -     | 구현 |
+|  9   | 14696 |              [딱지놀이](https://www.acmicpc.net/problem/14696)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14696_1.java) |  -   |    1    |     -     |  -   |
 |  ?   |   ?   |                                    [?](?)                                    |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 2
