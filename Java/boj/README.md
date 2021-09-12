@@ -165,9 +165,10 @@
 |  20  | 10952 |        [A+B - 5](https://www.acmicpc.net/problem/10952)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10952_1.java) |  -   |    1    |     -     | 구현 |
 |  21  | 10990 |     [별 찍기 - 15](https://www.acmicpc.net/problem/10990)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10990_1.java) |  -   |    1    |     -     | 구현 |
 |  22  | 10991 |     [별 찍기 - 16](https://www.acmicpc.net/problem/10991)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10991_1.java) |  -   |    1    |     -     | 구현 |
-|  23  | 11021 |        [A+B - 7](https://www.acmicpc.net/problem/11021)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11021_1.java) |  -   |    1    |     -     | 구현 |
-|  24  | 11022 |        [A+B - 8](https://www.acmicpc.net/problem/11022)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11022_1.java) |  -   |    1    |     -     | 구현 |
-|  25  | 11718 |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11718_1.java) |  -   |    1    |     -     | 구현 |
+|  23  | 10992 |     [별 찍기 - 17](https://www.acmicpc.net/problem/10992)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10992_1.java) |  -   |    1    |     -     | 구현 |
+|  24  | 11021 |        [A+B - 7](https://www.acmicpc.net/problem/11021)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11021_1.java) |  -   |    1    |     -     | 구현 |
+|  25  | 11022 |        [A+B - 8](https://www.acmicpc.net/problem/11022)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11022_1.java) |  -   |    1    |     -     | 구현 |
+|  26  | 11718 |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11718_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                             [?](?)                             |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 4
