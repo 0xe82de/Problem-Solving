@@ -47,8 +47,9 @@
 
 | 순번 | 번호 |                       이름                       |                                               코드                                               |                 풀이                  | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :--: | :----------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------: | :-----: | :-------: | :--: |
-|  1   | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java) |                   -                   |    1    |     O     |  -   |
-|  2   | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java) | [Blog](https://0xe82de.tistory.com/2) |    2    |     -     |  -   |
+|  1   | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1149_1.java) |                   -                   |    1    |     O     |  DP  |
+|  2   | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java) |                   -                   |    1    |     O     |  -   |
+|  3   | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java) | [Blog](https://0xe82de.tistory.com/2) |    2    |     -     |  -   |
 |  ?   |  ?   |                      [?](?)                      |                                            [Github]()                                            |                   -                   |    1    |     -     |  -   |
 
 ### Silver 2
@@ -63,7 +64,7 @@
 
 | 순번 | 번호  |                          이름                          |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1463  |   [1로 만들기](https://www.acmicpc.net/problem/1463)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1463_2.java)  |  -   |    2    |     O     |  DP  |
+|  1   | 1463  |   [1로 만들기](https://www.acmicpc.net/problem/1463)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1463_2.java)  |  -   |    2    |     -     |  DP  |
 |  2   | 2630  | [색종이 만들기](https://www.acmicpc.net/problem/2630)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2630_1.java)  |  -   |    1    |     -     |  -   |
 |  3   | 9613  |     [GCD 합](https://www.acmicpc.net/problem/9613)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9613_1.java)  |  -   |    1    |     O     |  -   |
 |  4   | 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_1.java) |  -   |    1    |     O     |  -   |
