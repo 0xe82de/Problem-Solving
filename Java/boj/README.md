@@ -25,13 +25,14 @@
 
 ### Gold 4
 
-| 순번 | 번호  |                          이름                          |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :---: | :----------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1806  |     [부분합](https://www.acmicpc.net/problem/1806)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1806_1.java)  |  -   |    1    |     O     |  -   |
-|  2   | 1987  |     [알파벳](https://www.acmicpc.net/problem/1987)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1987_1.java)  |  -   |    2    |     -     |  -   |
-|  3   | 17135 |  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |  -   |
-|  4   | 17406 | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |  -   |
-|  ?   |   ?   |                         [?](?)                         |                                           [Github]()                                            |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                            이름                            |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
+| :--: | :---: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
+|  1   | 1600  | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1600_3.java)  |  -   |    3    |     O     | BFS  |
+|  2   | 1806  |       [부분합](https://www.acmicpc.net/problem/1806)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1806_1.java)  |  -   |    1    |     O     |  -   |
+|  3   | 1987  |       [알파벳](https://www.acmicpc.net/problem/1987)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1987_1.java)  |  -   |    2    |     -     |  -   |
+|  4   | 17135 |    [캐슬 디펜스](https://www.acmicpc.net/problem/17135)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |  -   |
+|  5   | 17406 |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |  -   |
+|  ?   |   ?   |                           [?](?)                           |                                           [Github]()                                            |  -   |    1    |     -     |  -   |
 
 ### Gold 5
 
