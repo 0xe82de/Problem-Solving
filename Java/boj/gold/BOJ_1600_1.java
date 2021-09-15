@@ -1,4 +1,4 @@
-package solving;
+package boj.gold;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
