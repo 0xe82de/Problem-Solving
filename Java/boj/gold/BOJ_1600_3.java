@@ -77,6 +77,7 @@ public class BOJ_1600_3 {
 		final int R = map.length;
 		final int C = map[0].length;
 		
+		// k 값이 0이면 말의 움직임이 불가능하다. 따라서 원숭이처럼 움직이는 index 4까지.
 		int len = ck == 0 ? 4 : 12;
 		
 		for (int dir = 0; dir < len; ++dir) {
@@ -85,12 +86,12 @@ public class BOJ_1600_3 {
 			
 			if (nr < 0 || nr >= R || nc < 0 || nc >= C || map[nr][nc] == 1) continue;
 			
-			if (dir < 4) {
+			if (dir < 4) { // 원숭이
 				if (!isVisitByK[ck][nr][nc]) {
 					q.offer(new int[] {nr, nc, ck, ccnt + 1});
 					isVisitByK[ck][nr][nc] = true;
 				}
-			} else {
+			} else { // 말
 				if (!isVisitByK[ck - 1][nr][nc]) {
 					q.offer(new int[] {nr, nc, ck - 1, ccnt + 1});
 					isVisitByK[ck - 1][nr][nc] = true;
