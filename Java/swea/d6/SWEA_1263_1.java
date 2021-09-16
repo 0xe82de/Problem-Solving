@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
  * D6
  */
 
-public class SWEA_1263 {
+public class SWEA_1263_1 {
 
 	public static void main(String[] args) throws IOException {
 		
