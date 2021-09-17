@@ -30,7 +30,7 @@ public class BOJ_11726_1 {
 		}
 
 		// output
-		bw.write(String.valueOf(arr[N] % 10007));
+		bw.write(String.valueOf(arr[N]));
 
 		// io close
 		bw.close();
