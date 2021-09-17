@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 /*
- * SWEA 1767
+ * SWEA 1767 프로세서 연결하기
  * SW Test 샘플문제
  */
 
