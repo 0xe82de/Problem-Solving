@@ -76,18 +76,26 @@ public class BOJ_14502_1 {
 				// 첫 번째 벽
 				map[i][j] = WALL;
 				
-				for (int k = 0; k < N; ++k) {
-					for (int l = 0; l < M; ++l) {
+				for (int k = i; k < N; ++k) {
+					int l;
+					if (k == i) l = j + 1; // k, i 값이 같으면 같은 행이므로 컬럼 l을 1 증가시킨다. 
+					else l = 0; // k가 i보다 크므로 컬럼 l을 0부터 시작한다.
+					
+					for (; l < M; ++l) {
 						if (map[k][l] == WALL || map[k][l] == VIRUS) continue;
 						// 두 번째 벽
 						map[k][l] = WALL;
 						
-						for (int x = 0; x < N; ++x) {
-							for (int y = 0; y < M; ++y) {
+						for (int x = k; x < N; ++x) {
+							int y;
+							if (x == k) y = l + 1; // x, k 값이 같으면 같은 행이므로 컬럼 l을 1 증가시킨다. 
+							else y = 0; // x가 k보다 크므로 컬럼 y를 0부터 시작한다.
+							for (; y < M; ++y) {
 								if (map[x][y] == WALL || map[x][y] == VIRUS) continue;
 								// 세 번째 벽
 								map[x][y] = WALL;
 								
+								// 임시 크기를 가져와서 max 값과 비교한다.
 								int tempSize = getSizeSafetyZone(map);
 								if (max < tempSize) max = tempSize;
 								
