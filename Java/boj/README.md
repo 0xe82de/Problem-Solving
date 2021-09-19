@@ -70,10 +70,10 @@
 |  1   | 1463  |   [1로 만들기](https://www.acmicpc.net/problem/1463)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1463_2.java)  |  -   |    2    |     -     |  DP  |
 |  2   | 2630  | [색종이 만들기](https://www.acmicpc.net/problem/2630)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2630_1.java)  |  -   |    1    |     -     |  -   |
 |  3   | 9095  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9095_1.java)  |  -   |    1    |     -     |  DP  |
-|  3   | 9613  |     [GCD 합](https://www.acmicpc.net/problem/9613)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9613_1.java)  |  -   |    1    |     O     |  -   |
-|  4   | 11726 |  [2xn 타일링](https://www.acmicpc.net/problem/11726)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11726_1.java) |  -   |    1    |     -     |  DP  |
-|  5   | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11727_1.java) |  -   |    1    |     -     |  DP  |
-|  5   | 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_1.java) |  -   |    1    |     O     |  -   |
+|  4   | 9613  |     [GCD 합](https://www.acmicpc.net/problem/9613)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9613_1.java)  |  -   |    1    |     O     |  -   |
+|  5   | 11726 |  [2xn 타일링](https://www.acmicpc.net/problem/11726)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11726_1.java) |  -   |    1    |     -     |  DP  |
+|  6   | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11727_1.java) |  -   |    1    |     -     |  DP  |
+|  7   | 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_1.java) |  -   |    1    |     O     |  -   |
 |  ?   |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Silver 4
