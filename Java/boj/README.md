@@ -116,14 +116,15 @@
 | 순번 | 번호  |                                     이름                                     |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
 | :--: | :---: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
 |  1   | 1032  |            [명령 프롬프트](https://www.acmicpc.net/problem/1032)             | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1032_1.java)  |  -   |    1    |     -     |  -   |
-|  2   | 1157  |              [단어 공부](https://www.acmicpc.net/problem/1157)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1157_1.java)  |  -   |    1    |     -     |  -   |
-|  3   | 1546  |                 [평균](https://www.acmicpc.net/problem/1546)                 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1546_1.java)  |  -   |    1    |     -     |  -   |
-|  4   | 1924  |                [2007년](https://www.acmicpc.net/problem/1924)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1924_1.java)  |  -   |    1    |     -     | 구현 |
-|  5   | 2669  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2669_1.java)  |  -   |    1    |     -     |  -   |
-|  6   | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |  -   |
-|  7   | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |  -   |
-|  8   | 11719 |          [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11719_1.java) |  -   |    1    |     -     | 구현 |
-|  9   | 14696 |              [딱지놀이](https://www.acmicpc.net/problem/14696)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14696_1.java) |  -   |    1    |     -     |  -   |
+|  2   | 1110  |            [더하기 사이클](https://www.acmicpc.net/problem/1110)             | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1110_1.java)  |  -   |    1    |     -     | 구현 |
+|  3   | 1157  |              [단어 공부](https://www.acmicpc.net/problem/1157)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1157_1.java)  |  -   |    1    |     -     |  -   |
+|  4   | 1546  |                 [평균](https://www.acmicpc.net/problem/1546)                 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1546_1.java)  |  -   |    1    |     -     |  -   |
+|  5   | 1924  |                [2007년](https://www.acmicpc.net/problem/1924)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1924_1.java)  |  -   |    1    |     -     | 구현 |
+|  6   | 2669  | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2669_1.java)  |  -   |    1    |     -     |  -   |
+|  7   | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |  -   |
+|  8   | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |  -   |
+|  9   | 11719 |          [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11719_1.java) |  -   |    1    |     -     | 구현 |
+|  10  | 14696 |              [딱지놀이](https://www.acmicpc.net/problem/14696)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14696_1.java) |  -   |    1    |     -     |  -   |
 |  ?   |   ?   |                                    [?](?)                                    |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 2
@@ -146,7 +147,7 @@
 |  14  | 10953 |        [A+B - 6](https://www.acmicpc.net/problem/10953)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10953_1.java) |  -   |    1    |     -     | 파싱 |
 |  15  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     | 구현 |
 |  16  | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11721_1.java) |  -   |    1    |     -     | 구현 |
-|  17  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |  -   |
+|  17  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     | 구현 |
 |  18  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
