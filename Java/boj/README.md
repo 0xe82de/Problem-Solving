@@ -105,10 +105,11 @@
 |  6   | 2578  |        [빙고](https://www.acmicpc.net/problem/2578)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2578_1.java)  |  -   |    1    |     -     |    구현    |
 |  7   | 2628  |     [종이자르기](https://www.acmicpc.net/problem/2628)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2628_1.java)  |  -   |    1    |     -     |    정렬    |
 |  8   | 2635  |     [수 이어가기](https://www.acmicpc.net/problem/2635)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2635_1.java)  |  -   |    1    |     O     | 브루트포스 |
-|  9   | 10989 |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10989_1.java) |  -   |    1    |     O     |     -      |
-|  10  | 11728 |    [배열 합치기](https://www.acmicpc.net/problem/11728)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |  -   |    1    |     -     |     -      |
-|  11  | 11576 |  [Base Conversion](https://www.acmicpc.net/problem/11576)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11576_1.java) |  -   |    1    |     -     |     -      |
-|  12  | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_2.java) |  -   |    2    |     O     |     -      |
+|  9   | 4673  |      [셀프 넘버](https://www.acmicpc.net/problem/4673)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_4673_1.java)  |  -   |    1    |     -     |    구현    |
+|  10  | 10989 |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10989_1.java) |  -   |    1    |     O     |     -      |
+|  11  | 11728 |    [배열 합치기](https://www.acmicpc.net/problem/11728)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |  -   |    1    |     -     |     -      |
+|  12  | 11576 |  [Base Conversion](https://www.acmicpc.net/problem/11576)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11576_1.java) |  -   |    1    |     -     |     -      |
+|  13  | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_2.java) |  -   |    2    |     O     |     -      |
 |  ?   |   ?   |                           [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |     -      |
 
 ### Bronze 1
