@@ -192,15 +192,16 @@
 
 ### Bronze 4
 
-| 순번 | 번호  |                          이름                          |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1008  |      [A/B](https://www.acmicpc.net/problem/1008)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1008_1.java)  |  -   |    1    |     -     |  -   |
-|  2   | 1330  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1330_1.java)  |  -   |    1    |     -     |  -   |
-|  3   | 2588  |      [곱셈](https://www.acmicpc.net/problem/2588)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2588_1.java)  |  -   |    1    |     -     |  -   |
-|  4   | 2753  |      [윤년](https://www.acmicpc.net/problem/2753)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2753_1.java)  |  -   |    1    |     -     |  -   |
-|  5   | 9498  |   [시험 성적](https://www.acmicpc.net/problem/9498)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_9498_1.java)  |  -   |    1    |     -     |  -   |
-|  6   | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14681_1.java) |  -   |    1    |     -     |  -   |
-|  ?   |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                          이름                          |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |      비고      |
+| :--: | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :------------: |
+|  1   | 1008  |      [A/B](https://www.acmicpc.net/problem/1008)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1008_1.java)  |  -   |    1    |     -     |       -        |
+|  2   | 1330  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1330_1.java)  |  -   |    1    |     -     |       -        |
+|  3   | 1712  |   [손익분기점](https://www.acmicpc.net/problem/1712)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1712_1.java)  |  -   |    1    |     -     | 수학, 사칙연산 |
+|  4   | 2588  |      [곱셈](https://www.acmicpc.net/problem/2588)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2588_1.java)  |  -   |    1    |     -     |       -        |
+|  5   | 2753  |      [윤년](https://www.acmicpc.net/problem/2753)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2753_1.java)  |  -   |    1    |     -     |       -        |
+|  6   | 9498  |   [시험 성적](https://www.acmicpc.net/problem/9498)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_9498_1.java)  |  -   |    1    |     -     |       -        |
+|  7   | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14681_1.java) |  -   |    1    |     -     |       -        |
+|  ?   |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |       -        |
 
 ### Bronze 5
 
