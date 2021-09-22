@@ -31,6 +31,11 @@ public class BOJ_1065_1 {
 		br.close();
 	}
 	
+	/**
+	 * 매개변수 N까지 한수의 개수를 리턴한다.
+	 * @param N : 주어진 자연수의 범위. 1 <= N <= 1,000
+	 * @return 한수의 개수
+	 */
 	private static int getCount(int N) {
 		if (N < 100) return N;
 		
