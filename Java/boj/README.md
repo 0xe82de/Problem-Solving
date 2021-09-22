@@ -147,6 +147,7 @@
 |  15  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     | 구현 |
 |  16  | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11721_1.java) |  -   |    1    |     -     | 구현 |
 |  17  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |  -   |
+|  18  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 3
