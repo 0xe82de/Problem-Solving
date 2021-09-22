@@ -80,18 +80,19 @@
 
 ### Silver 4
 
-| 순번 | 번호  |                           이름                           |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :---: | :------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1244  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1244_1.java)  |  -   |    1    |     -     | 구현 |
-|  2   | 1978  |    [소수 찾기](https://www.acmicpc.net/problem/1978)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1978_1.java)  |  -   |    1    |     -     |  -   |
-|  3   | 2217  |       [로프](https://www.acmicpc.net/problem/2217)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |  -   |
-|  4   | 2331  |     [반복수열](https://www.acmicpc.net/problem/2331)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2331_1.java)  |  -   |    1    |     O     |  -   |
-|  5   | 9012  |       [괄호](https://www.acmicpc.net/problem/9012)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |  -   |
-|  6   | 10825 |     [국영수](https://www.acmicpc.net/problem/10825)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |  -   |
-|  7   | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |  -   |
-|  8   | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |  -   |
-|  9   | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |  -   |
-|  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                           이름                           |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |    비고    |
+| :--: | :---: | :------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--------: |
+|  1   | 1065  |       [한수](https://www.acmicpc.net/problem/1065)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1065_1.java)  |  -   |    1    |     -     | 브루트포스 |
+|  2   | 1244  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1244_1.java)  |  -   |    1    |     -     |    구현    |
+|  3   | 1978  |    [소수 찾기](https://www.acmicpc.net/problem/1978)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1978_1.java)  |  -   |    1    |     -     |     -      |
+|  4   | 2217  |       [로프](https://www.acmicpc.net/problem/2217)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |     -      |
+|  5   | 2331  |     [반복수열](https://www.acmicpc.net/problem/2331)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2331_1.java)  |  -   |    1    |     O     |     -      |
+|  6   | 9012  |       [괄호](https://www.acmicpc.net/problem/9012)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |     -      |
+|  7   | 10825 |     [국영수](https://www.acmicpc.net/problem/10825)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |     -      |
+|  8   | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |     -      |
+|  9   | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |     -      |
+|  10  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |     -      |
+|  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -     |     -      |
 
 ### Silver 5
 
