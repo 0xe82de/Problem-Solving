@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 /*
  * BOJ 7576 토마토
  * S1
- * DFS
+ * BFS
  */
 
 public class BOJ_7576_1 {
