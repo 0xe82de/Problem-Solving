@@ -48,6 +48,7 @@
 |  1   | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1149_1.java) |                   -                   |    1    |     O     |  DP  |
 |  2   | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java) |                   -                   |    1    |     O     |  -   |
 |  3   | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java) | [Blog](https://0xe82de.tistory.com/2) |    2    |     -     |  -   |
+|  4   | 7576 |  [토마토](https://www.acmicpc.net/problem/7576)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_7576_1.java) |                   -                   |    1    |     -     | BFS  |
 |  ?   |  ?   |                      [?](?)                      |                                            [Github]()                                            |                   -                   |    1    |     -     |  -   |
 
 ### Silver 2
