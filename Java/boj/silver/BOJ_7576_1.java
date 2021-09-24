@@ -18,15 +18,14 @@ import java.util.StringTokenizer;
 public class BOJ_7576_1 {
 	
 	enum Direction {
-			RIGHT(0, 1), DOWN(1, 0), LEFT(0, -1), UP(-1, 0);
-			private final int row;
-			private final int col;
-			Direction(int row, int col) {
-				this.row = row;
-				this.col = col;
-			}
-			int getRow() { return row; }
-			int getCol() { return col; }
+		RIGHT(0, 1), DOWN(1, 0), LEFT(0, -1), UP(-1, 0);
+		private final int row, col;
+		Direction(int row, int col) {
+			this.row = row;
+			this.col = col;
+		}
+		int getRow() { return row; }
+		int getCol() { return col; }
 	}
 	
 	static final int ROW = 0;
