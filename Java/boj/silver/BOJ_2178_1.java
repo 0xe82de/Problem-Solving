@@ -67,7 +67,7 @@ public class BOJ_2178_1 {
 	 */
 	private static void bfs() {
 		Queue<int[]> q = new LinkedList<>();
-		q.offer(new int[] {0, 0, 0});
+		q.offer(new int[] {0, 0, 1});
 		
 		while (!q.isEmpty()) {
 			int[] temp = q.poll();
@@ -77,7 +77,7 @@ public class BOJ_2178_1 {
 			
 			// 목적지에 도달하면 기존에 계산된 sum과 비교하여 더 작은 값을 저장한다.
 			if (cr == N - 1 && cc == M - 1) {
-				if (sum > cSum + 1) sum = cSum + 1;
+				if (sum > cSum) sum = cSum;
 				continue;
 			}
 			
@@ -87,7 +87,7 @@ public class BOJ_2178_1 {
 				int nc = cc + DC[dir];
 				
 				// 범위 초과 or 벽 or 기존의 sum보다 크면 continue
-				if (isOutRange(nr, nc) || map[nr][nc] == WALL || sum < cSum + 1) continue;
+				if (isOutRange(nr, nc) || map[nr][nc] == WALL || sum <= cSum) continue;
 				
 				// 다음 위치를 벽으로 만들어서 더 이상 방문하지 않도록 한다.
 				map[nr][nc] = WALL;
