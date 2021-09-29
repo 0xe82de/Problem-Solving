@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  *
  * 접근 방식
  * 1. bfs 탐색하면서 출구를 찾는다.
- * 2. 잠긴 문이 있으면 열쇠가 있는지 확인하고, 없으면 다시 큐에 넣는다.
+ * 2. visited 배열을 3차원 배열로 관리해서, 문, 키를 만났을 때 각각 비트마스킹으로 처리한다.
  */
 
 public class BOJ_1194_1 {
