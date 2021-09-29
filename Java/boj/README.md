@@ -160,12 +160,13 @@
 |  13  | 5622  |         [다이얼](https://www.acmicpc.net/problem/5622)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_5622_1.java)  |  -   |    1    |     -     | 구현 |
 |  14  | 8958  |         [OX퀴즈](https://www.acmicpc.net/problem/8958)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8958_1.java)  |  -   |    1    |     -     | 구현 |
 |  15  | 10809 |      [알파벳 찾기](https://www.acmicpc.net/problem/10809)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10809_1.java) |  -   |    1    |     -     | 구현 |
-|  16  | 10953 |        [A+B - 6](https://www.acmicpc.net/problem/10953)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10953_1.java) |  -   |    1    |     -     | 파싱 |
-|  17  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     | 구현 |
-|  18  | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11721_1.java) |  -   |    1    |     -     | 구현 |
-|  19  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     | 구현 |
-|  20  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     | 구현 |
-|  21  | 15596 |     [정수 N개의 합](https://www.acmicpc.net/problem/15596)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15596_1.java) |  -   |    1    |     -     | 구현 |
+|  16   |   10870   |                             [피보나치 수 5](https://www.acmicpc.net/problem/10870)                              |                                            [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10870_1.java)                                             |  -   |    1    |     -     |  수학, 구현, DP   |
+|  17  | 10953 |        [A+B - 6](https://www.acmicpc.net/problem/10953)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10953_1.java) |  -   |    1    |     -     | 파싱 |
+|  18  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     | 구현 |
+|  19  | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11721_1.java) |  -   |    1    |     -     | 구현 |
+|  20  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     | 구현 |
+|  21  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     | 구현 |
+|  22  | 15596 |     [정수 N개의 합](https://www.acmicpc.net/problem/15596)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15596_1.java) |  -   |    1    |     -     | 구현 |
 |  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
 
 ### Bronze 3
