@@ -11,6 +11,14 @@
 |  1   | 1786 | [찾기](https://www.acmicpc.net/problem/1786) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/platinum/BOJ_1786_1.java) |  -   |    1    |     O     | 문자열, KMP |
 |  ?   |  ?   |                    [?](?)                    |                                             [Github]()                                             |  -   |    1    |     -     |      -      |
 
+### Gold 1
+
+| 순번 | 번호 |                     이름                     |                                                코드                                                | 풀이 | 푼 횟수 | 복습 필요 |    비고     |
+| :--: | :--: | :------------------------------------------: | :------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :---------: |
+|  1   | 1194 | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1194_1.java) |  -   |    1    |     O     | BFS, 비트마스킹 |
+|  ?   |  ?   |                    [?](?)                    |                                             [Github]()                                             |  -   |    1    |     -     |      -      |
+
+
 ### Gold 2
 
 | 순번 | 번호 |                     이름                     |                                              코드                                              | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
