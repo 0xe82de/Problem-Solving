@@ -32,7 +32,7 @@ public class BOJ_17472_1 {
     static final int EMPTY = 0;
     static final int WALL = 1;
 
-    // 인접행렬 상수
+    // 인접행렬 변수
     static int INF;
 
     static int[] parents;
@@ -90,7 +90,7 @@ public class BOJ_17472_1 {
             int result = 0;
             for (int to = 0; to < numOfIsland; ++to) {
                 if (adjMatrix[from][to] == INF) {
-                    result += adjMatrix[from][to];
+                    result += INF;
                     continue;
                 }
                 
