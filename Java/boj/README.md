@@ -13,32 +13,31 @@
 
 ### Gold 1
 
-| 순번 | 번호 |                     이름                     |                                                코드                                                | 풀이 | 푼 횟수 | 복습 필요 |    비고     |
-| :--: | :--: | :------------------------------------------: | :------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :---------: |
+| 순번 | 번호 |                             이름                             |                                              코드                                              | 풀이 | 푼 횟수 | 복습 필요 |      비고       |
+| :--: | :--: | :----------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-------------: |
 |  1   | 1194 | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1194_1.java) |  -   |    1    |     O     | BFS, 비트마스킹 |
-|  ?   |  ?   |                    [?](?)                    |                                             [Github]()                                             |  -   |    1    |     -     |      -      |
-
+|  ?   |  ?   |                            [?](?)                            |                                           [Github]()                                           |  -   |    1    |     -     |        -        |
 
 ### Gold 2
 
-| 순번 | 번호 |                     이름                     |                                              코드                                              | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :--: | :------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 3109 | [빵집](https://www.acmicpc.net/problem/3109) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_3109_1.java) |  -   |    1    |     O     |  -   |
-|  2   |  17472   |                    [다리 만들기 2](https://www.acmicpc.net/problem/17472)                    |                                           [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17472_1.java)                                           |  -   |    1    |     O     |   구현, 브루트포스, DFS, BFS, MST  |
-|  ?   |  ?   |                    [?](?)                    |                                           [Github]()                                           |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                          이름                          |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |              비고               |
+| :--: | :---: | :----------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-----------------------------: |
+|  1   | 3109  |      [빵집](https://www.acmicpc.net/problem/3109)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_3109_1.java)  |  -   |    1    |     O     |                -                |
+|  2   | 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17472_1.java) |  -   |    1    |     O     | 구현, 브루트포스, DFS, BFS, MST |
+|  ?   |   ?   |                         [?](?)                         |                                           [Github]()                                            |  -   |    1    |     -     |                -                |
 
 ### Gold 4
 
-| 순번 | 번호  |                            이름                            |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :---: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1600  | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1600_3.java)  |  -   |    3    |     O     | BFS  |
-|  2   | 1806  |       [부분합](https://www.acmicpc.net/problem/1806)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1806_1.java)  |  -   |    1    |     O     |  -   |
-|  3   | 1987  |       [알파벳](https://www.acmicpc.net/problem/1987)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1987_1.java)  |  -   |    2    |     -     |  -   |
-|  4   | 2458  | [키 순서](https://www.acmicpc.net/problem/2458)            |       [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2458_1.java)                                            |  -   |    1    |     O     |  그래프, 플로이드-와샬   |
-|  5   | 17135 |    [캐슬 디펜스](https://www.acmicpc.net/problem/17135)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |  -   |
-|  6   | 17144 |  [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17144_1.java) |  -   |    1    |     -     | 구현 |
-|  7   | 17406 |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |  -   |
-|  ?   |   ?   |                           [?](?)                           |                                           [Github]()                                            |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                            이름                            |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |         비고          |
+| :--: | :---: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-------------------: |
+|  1   | 1600  | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1600_3.java)  |  -   |    3    |     O     |          BFS          |
+|  2   | 1806  |       [부분합](https://www.acmicpc.net/problem/1806)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1806_1.java)  |  -   |    1    |     O     |           -           |
+|  3   | 1987  |       [알파벳](https://www.acmicpc.net/problem/1987)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1987_1.java)  |  -   |    2    |     -     |           -           |
+|  4   | 2458  |      [키 순서](https://www.acmicpc.net/problem/2458)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2458_1.java)  |  -   |    1    |     O     | 그래프, 플로이드-와샬 |
+|  5   | 17135 |    [캐슬 디펜스](https://www.acmicpc.net/problem/17135)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |           -           |
+|  6   | 17144 |  [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17144_1.java) |  -   |    1    |     -     |         구현          |
+|  7   | 17406 |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |           -           |
+|  ?   |   ?   |                           [?](?)                           |                                           [Github]()                                            |  -   |    1    |     -     |           -           |
 
 ### Gold 5
 
@@ -144,31 +143,31 @@
 
 ### Bronze 2
 
-| 순번 | 번호  |                              이름                               |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :---: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1152  |       [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1152_1.java)  |  -   |    1    |     -     |  -   |
-|  2   | 2292  |          [벌집](https://www.acmicpc.net/problem/2292)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2292_1.java)  |  -   |    1    |     -     | 수학 |
-|  3   | 2309  |       [일곱 난쟁이](https://www.acmicpc.net/problem/2309)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2309_1.java)  |  -   |    1    |     -     |  -   |
-|  4   | 2562  |         [최댓값](https://www.acmicpc.net/problem/2562)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2562_1.java)  |  -   |    1    |     -     | 구현 |
-|  5   | 2577  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2577_1.java)  |  -   |    1    |     O     | 수학 |
-|  6   | 2605  |        [줄 세우기](https://www.acmicpc.net/problem/2605)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2605_1.java)  |  -   |    1    |     -     | 구현 |
-|  7   | 2675  |       [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2675_1.java)  |  -   |    1    |     -     | 구현 |
-|  8   | 2798  |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_1.java)  |  -   |    1    |     O     | 조합 |
-|  9   | 2908  |          [상수](https://www.acmicpc.net/problem/2908)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2908_1.java)  |  -   |    1    |     -     | 구현 |
-|  10  | 2920  |          [음계](https://www.acmicpc.net/problem/2920)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2920_1.java)  |  -   |    1    |     -     | 구현 |
-|  11  | 3040  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java)  |  -   |    1    |     -     |  -   |
-|  12  | 3052  |         [나머지](https://www.acmicpc.net/problem/3052)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3052_2.java)  |  -   |    2    |     -     | 수학 |
-|  13  | 5622  |         [다이얼](https://www.acmicpc.net/problem/5622)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_5622_1.java)  |  -   |    1    |     -     | 구현 |
-|  14  | 8958  |         [OX퀴즈](https://www.acmicpc.net/problem/8958)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8958_1.java)  |  -   |    1    |     -     | 구현 |
-|  15  | 10809 |      [알파벳 찾기](https://www.acmicpc.net/problem/10809)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10809_1.java) |  -   |    1    |     -     | 구현 |
-|  16   |   10870   |                             [피보나치 수 5](https://www.acmicpc.net/problem/10870)                              |                                            [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10870_1.java)                                             |  -   |    1    |     -     |  수학, 구현, DP   |
-|  17  | 10953 |        [A+B - 6](https://www.acmicpc.net/problem/10953)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10953_1.java) |  -   |    1    |     -     | 파싱 |
-|  18  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     | 구현 |
-|  19  | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11721_1.java) |  -   |    1    |     -     | 구현 |
-|  20  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     | 구현 |
-|  21  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     | 구현 |
-|  22  | 15596 |     [정수 N개의 합](https://www.acmicpc.net/problem/15596)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15596_1.java) |  -   |    1    |     -     | 구현 |
-|  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                              이름                               |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |      비고      |
+| :--: | :---: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :------------: |
+|  1   | 1152  |       [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1152_1.java)  |  -   |    1    |     -     |       -        |
+|  2   | 2292  |          [벌집](https://www.acmicpc.net/problem/2292)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2292_1.java)  |  -   |    1    |     -     |      수학      |
+|  3   | 2309  |       [일곱 난쟁이](https://www.acmicpc.net/problem/2309)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2309_1.java)  |  -   |    1    |     -     |       -        |
+|  4   | 2562  |         [최댓값](https://www.acmicpc.net/problem/2562)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2562_1.java)  |  -   |    1    |     -     |      구현      |
+|  5   | 2577  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2577_1.java)  |  -   |    1    |     O     |      수학      |
+|  6   | 2605  |        [줄 세우기](https://www.acmicpc.net/problem/2605)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2605_1.java)  |  -   |    1    |     -     |      구현      |
+|  7   | 2675  |       [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2675_1.java)  |  -   |    1    |     -     |      구현      |
+|  8   | 2798  |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_1.java)  |  -   |    1    |     O     |      조합      |
+|  9   | 2908  |          [상수](https://www.acmicpc.net/problem/2908)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2908_1.java)  |  -   |    1    |     -     |      구현      |
+|  10  | 2920  |          [음계](https://www.acmicpc.net/problem/2920)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2920_1.java)  |  -   |    1    |     -     |      구현      |
+|  11  | 3040  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java)  |  -   |    1    |     -     |       -        |
+|  12  | 3052  |         [나머지](https://www.acmicpc.net/problem/3052)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3052_2.java)  |  -   |    2    |     -     |      수학      |
+|  13  | 5622  |         [다이얼](https://www.acmicpc.net/problem/5622)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_5622_1.java)  |  -   |    1    |     -     |      구현      |
+|  14  | 8958  |         [OX퀴즈](https://www.acmicpc.net/problem/8958)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_8958_1.java)  |  -   |    1    |     -     |      구현      |
+|  15  | 10809 |      [알파벳 찾기](https://www.acmicpc.net/problem/10809)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10809_1.java) |  -   |    1    |     -     |      구현      |
+|  16  | 10870 |     [피보나치 수 5](https://www.acmicpc.net/problem/10870)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10870_1.java) |  -   |    1    |     -     | 수학, 구현, DP |
+|  17  | 10953 |        [A+B - 6](https://www.acmicpc.net/problem/10953)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10953_1.java) |  -   |    1    |     -     |      파싱      |
+|  18  | 11720 |       [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11720_1.java) |  -   |    1    |     -     |      구현      |
+|  19  | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11721_1.java) |  -   |    1    |     -     |      구현      |
+|  20  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |      구현      |
+|  21  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     |      구현      |
+|  22  | 15596 |     [정수 N개의 합](https://www.acmicpc.net/problem/15596)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15596_1.java) |  -   |    1    |     -     |      구현      |
+|  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |       -        |
 
 ### Bronze 3
 

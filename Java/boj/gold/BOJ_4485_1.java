@@ -1,15 +1,18 @@
-package swea.d4;
+package boj.gold;
 
 import java.io.*;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.PriorityQueue;
+import java.util.StringTokenizer;
 
 /**
- * SWEA 1249 보급로
- * D4
- * BFS
+ * BOJ 4485 녹색 옷 입은 애가 젤다지?
+ * G4
+ * BFS, 다익스트라
  */
 
-public class SWEA_1249_1 {
+public class BOJ_4485_1 {
 
     // 방향 델타 상수
     static final int[] DR = { 0, 1, 0, -1 };
@@ -21,22 +24,24 @@ public class SWEA_1249_1 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+        StringTokenizer st;
         StringBuilder sb = new StringBuilder();
 
         // logic
-        final int TC = Integer.parseInt(br.readLine());
-        for (int tc = 1; tc <= TC; ++tc) {
-            // input
-            int N = Integer.parseInt(br.readLine());
+        // 2 ≤ N ≤ 125
+        int N = 0;
+
+        int tc = 0;
+        while ((N = Integer.parseInt(br.readLine())) != 0) {
             int[][] map = new int[N][N];
             for (int r = 0; r < N; ++r) {
-                char[] tmpInput = br.readLine().toCharArray();
+                st = new StringTokenizer(br.readLine(), " ");
                 for (int c = 0; c < N; ++c) {
-                    map[r][c] = tmpInput[c] - '0'; // 숫자로 변환해서 저장
+                    map[r][c] = Integer.parseInt(st.nextToken());
                 }
             }
 
-            sb.append("#" + tc + " " + getMinDistance(map) + "\n");
+            sb.append("Problem " + (++tc) + ": " + getMinDistance(map) + "\n");
         }
 
         // output
@@ -91,7 +96,7 @@ public class SWEA_1249_1 {
             // 처음으로 목적지에 도착했을 대가 가장 거리가 짧을 때이다.
             if (cr == n - 1 && cc == m - 1) {
                 result = cw;
-                break;
+                continue;
             }
 
             for (int dir = 0; dir < 4; ++dir) {
