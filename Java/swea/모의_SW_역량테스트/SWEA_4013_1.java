@@ -198,7 +198,7 @@ public class SWEA_4013_1 {
      * 점수를 계산해서 리턴한다.
      * @param magnet : 자석들의 정보를 가지고 있는 2차원 배열
      * @param index : 화살표 인덱스를 가지고 있는 2차원 배열
-     * @return
+     * @return 점수
      */
     private static int computeScore(int[][] magnet, int[][] index) {
         int score = 0;
