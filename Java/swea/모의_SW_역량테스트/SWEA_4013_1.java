@@ -182,7 +182,7 @@ public class SWEA_4013_1 {
     }
 
     /**
-     * 주어진 자석에서 화솰표 or 왼쪽 날 or 오른쪽 날의 인덱스를 회전시킨다.
+     * 주어진 자석에서 화살표 or 왼쪽 날 or 오른쪽 날의 인덱스를 회전시킨다.
      * @param index : 인덱스를 가지고 있는 2차원 배열
      * @param magIndex : 자석 인덱스
      * @param side : 화살표 or 왼쪽 날 or 오른쪽 날
@@ -203,7 +203,7 @@ public class SWEA_4013_1 {
     private static int computeScore(int[][] magnet, int[][] index) {
         int score = 0;
         for (int i = 0; i < N; ++i) {
-            if (magnet[i][index[i][ARROW]] == S) score += Math.pow(2, i);
+            if (magnet[i][index[i][ARROW]] == S) score += 1 << i;
         }
         return score;
     }
