@@ -1,4 +1,4 @@
-package solving;
+package boj.silver;
 
 import java.io.*;
 import java.util.StringTokenizer;
