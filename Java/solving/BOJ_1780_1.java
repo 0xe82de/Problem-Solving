@@ -4,9 +4,9 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 /**
- * BOJ
- * G5
- * ???
+ * BOJ 1780 종이의 개수
+ * S2
+ * 분할 정복, 재귀
  */
 
 public class BOJ_1780_1 {
