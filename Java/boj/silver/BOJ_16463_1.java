@@ -1,8 +1,6 @@
 package boj.silver;
 
 import java.io.*;
-import java.time.DayOfWeek;
-import java.time.LocalDate;
 import java.util.StringTokenizer;
 
 /**
@@ -12,9 +10,6 @@ import java.util.StringTokenizer;
  */
 
 public class BOJ_16463_1 {
-
-    // 1월 ~ 12월, 첫 번째 값은 사용하지 않는다.
-    static int[] days = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
     public static void main(String[] args) throws IOException {
 
@@ -27,6 +22,9 @@ public class BOJ_16463_1 {
 
         // logic
         final int N = Integer.parseInt(br.readLine());
+
+        // 1월 ~ 12월, 첫 번째 값은 사용하지 않는다.
+        int[] days = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
         int total = 0, count = 0;
         for (int year = 2019; year <= N; ++year) {
