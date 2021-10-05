@@ -66,11 +66,12 @@
 
 ### Silver 2
 
-| 순번 | 번호  |                             이름                             |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :--: | :---: | :----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-|  1   | 1260  |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1260_2.java)  |  -   |    2    |     O     |  -   |
-|  2   | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11729_1.java) |  -   |    1    |     O     |  -   |
-|  ?   |   ?   |                            [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |  -   |
+| 순번 | 번호  |                             이름                             |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |    비고    |
+| :--: | :---: | :----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--------: |
+|  1   | 1260  |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1260_2.java)  |  -   |    2    |     O     |     -      |
+|  2   | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11729_1.java) |  -   |    1    |     O     |     -      |
+|  3   | 18442 |      [우체국 1](https://www.acmicpc.net/problem/18442)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18442_1.java) |  -   |    1    |     -     | 브루트포스 |
+|  ?   |   ?   |                            [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |     -      |
 
 ### Silver 3
 
