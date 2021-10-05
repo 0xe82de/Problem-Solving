@@ -1,4 +1,4 @@
-package solving;
+package boj.silver;
 
 import java.io.*;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 
 /**
  * BOJ 18442 우체국 1
- * S1
+ * S2
  * 브루트포스
  */
 
@@ -17,7 +17,6 @@ public class BOJ_18442_1 {
     static long L;
 
     // 마을의 위치를 저장할 변수
-//    static int[] city;
     static long[] city;
 
     // 경찰서 조합을 뽑기위한 변수
@@ -49,14 +48,13 @@ public class BOJ_18442_1 {
         // 경찰서의 개수
         P = Integer.parseInt(st.nextToken());
         // 큰 길의 둘레
-        L = Integer.parseInt(st.nextToken());
+        L = Long.parseLong(st.nextToken());
 
         // 마을 좌표를 저장할 배열 초기화
-//        city = new int[V];
         city = new long[V];
         st = new StringTokenizer(br.readLine(), " ");
         for (int i = 0; i <  V; ++i) {
-            city[i] = Integer.parseInt(st.nextToken());
+            city[i] = Long.parseLong(st.nextToken());
         }
 
         isPolice = new boolean[V];
@@ -66,12 +64,8 @@ public class BOJ_18442_1 {
         // 경찰서 조합을 생성해서 나머지 마을과의 거리를 구하고 최소값일 때를 계산한다.
         comb(0, 0);
 
-//        sb.append(String.format("%.0f", result[0]) + "\n");
         sb.append(result[0] + "\n");
-        for (int i = 1; i <= P; ++i) {
-//            sb.append(String.format("%.0f", result[i]) + " ");
-            sb.append(result[i] + " ");
-        }
+        for (int i = 1; i <= P; ++i) sb.append(result[i] + " ");
         sb.append("\n");
 
         // output
@@ -98,7 +92,6 @@ public class BOJ_18442_1 {
             comb(i + 1, cnt + 1);
             isPolice[i] = false;
         }
-
     }
 
     /**
@@ -128,7 +121,6 @@ public class BOJ_18442_1 {
                 // 경찰서 마을(i)과 j 마을의 안쪽 거리를 계산한다.
                 tmpDistance = city[i] - city[j];
                 if (tmpDistance < 0) tmpDistance = -tmpDistance;
-//                tmpDistance = (long)Math.abs(city[i] - city[j]);
 
                 // 바깥쪽 거리와 비교해서 짧은 거리를 저장한다.
                 if (tmpDistance > L - tmpDistance) tmpDistance = L - tmpDistance;
