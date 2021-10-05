@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * SWEA 5656 벽돌 깨기
  * 모의 SW 역량테스트
- * 구현
+ * 구현, BFS
  */
 
 public class SWEA_5656_1 {
