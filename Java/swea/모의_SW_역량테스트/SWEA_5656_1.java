@@ -1,4 +1,4 @@
-package solving;
+package swea.모의_SW_역량테스트;
 
 import java.io.*;
 import java.util.*;
@@ -14,10 +14,6 @@ public class SWEA_5656_1 {
     // 맵 상수
     static int N, W, H;
 
-    // 맵, 복사할 맵, 중복순열
-    static int[][] map, clone;
-    static int[] selected;
-
     // 요소 타입
     static final int EMPTY = 0;
 
@@ -27,19 +23,12 @@ public class SWEA_5656_1 {
     // 최소로 계산한 남은 벽돌의 개수
     static int minRemainBrick;
 
-    // 벽돌의 총 개수
-    static int cntBrick;
-
-    // 부순 벽돌의 개수
-    static int brokenBrick;
-
     // 방향 델타 상수, 우 하 좌 상
     static int[] DR = {0, 1, 0, -1};
     static int[] DC = {1, 0, -1, 0};
 
     public static void main(String[] args) throws IOException {
 
-        System.setIn(new FileInputStream("input.txt"));
         // io
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -58,20 +47,16 @@ public class SWEA_5656_1 {
             // 2 <= H <= 15
             H = Integer.parseInt(st.nextToken());
 
-            map = new int[H][W];
-            clone = new int[H][W];
-            cntBrick = 0;
+            int[][] map = new int[H][W];
             for (int r = 0; r < H; ++r) {
                 st = new StringTokenizer(br.readLine(), " ");
                 for (int c = 0; c < W; ++c) {
                     map[r][c] = Integer.parseInt(st.nextToken());
-                    if (map[r][c] != EMPTY) ++cntBrick;
                 }
             }
 
-            selected = new int[N];
             minRemainBrick = INF;
-            selectCol(0);
+            selectCol(map, 0);
             sb.append("#" + tc + " " + minRemainBrick + "\n");
         }
 
@@ -83,58 +68,82 @@ public class SWEA_5656_1 {
         br.close();
     }
 
-    private static void selectCol(int cnt) {
+    /**
+     * 벽돌을 떨어뜨릴 위치(열)를 정하고 계산한다.
+     * @param map : 현재까지 벽돌을 떨어뜨려본 맵
+     * @param cnt : 벽돌을 떨어뜨린 회수
+     */
+    private static void selectCol(int[][] map, int cnt) {
+        // 벽돌을 모두 떨어뜨리면
         if (cnt == N) {
-            compute();
+            minRemainBrick = Math.min(minRemainBrick, getCntRemainBrick(map));
             return;
         }
 
         for (int i = 0; i < W; ++i) {
-            selected[cnt] = i;
-            selectCol(cnt + 1);
+            // 맵을 복사한다.
+            int[][] clone = copyMap(map);
+
+            // 복사한 맵으로 벽돌을 떨어뜨리고 빈 공간을 채운다.
+            compute(clone, i);
+
+            // 시뮬레이션 돌린 맵으로 다음 벽돌을 떨어뜨린다.
+            selectCol(clone, cnt + 1);
         }
     }
 
-    private static void compute() {
-        // 맵 복제
-        for (int i = 0; i < H; ++i)
-            System.arraycopy(map[i], 0, clone[i], 0, W);
+    /**
+     * 맵을 복사해서 리턴한다.
+     * @param map : 현재 맵
+     * @return 복사된 맵
+     */
+    private static int[][] copyMap(int[][] map) {
+        int[][] clone = new int[H][W];
+        for (int r = 0; r < H; ++r) {
+            for (int c = 0; c < W; ++c) {
+                clone[r][c] = map[r][c];
+            }
+        }
+        return clone;
+    }
 
+    /**
+     * 벽돌을 부수고 빈 공간을 채운다.
+     * @param map
+     * @param start
+     */
+    private static void compute(int[][] map, int start) {
         // 벽돌 부수기
-        brokenBrick = 0;
-        for (int start : selected) smash(start);
+        smash(map, start);
 
-        // 남은 벽돌 계산하기
-        int tempRemainBrick = cntBrick - brokenBrick;
-        if (minRemainBrick > tempRemainBrick)
-            minRemainBrick = tempRemainBrick;
+        // 빈 공간 채우기
+        drop(map);
     }
 
     /**
      * 벽돌을 부수고 부순 벽돌의 개수를 저장하고, 빈 공간을 채운다.
      * @param start : 벽돌을 던질 위치 (열)
      */
-    private static void smash(int start) {
-        int r = 0, c, range;
-        int nr, nc, type;
-        int[] pos;
-        while (r < H && clone[r][start] == EMPTY) ++r;
-
+    private static void smash(int[][] map, int start) {
+        int r = 0;
+        while (r < H && map[r][start] == EMPTY) ++r;
         // 현재 위치에서 떨어지면 벽돌이랑 만나지 않는다.
         if (r == H) return;
 
+        int c, range;
+        int nr, nc, type;
+        int[] pos;
+
         // 벽돌의 범위가 1이면 그 곳만 부수고 리턴한다.
-        if (clone[r][start] == 1) {
-            clone[r][start] = EMPTY;
-            ++brokenBrick;
+        if (map[r][start] == 1) {
+            map[r][start] = EMPTY;
             return;
         }
 
         // 벽돌의 범위가 1보다 크면 주변 벽돌을 부수기 위해 bfs 탐색한다.
         Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[]{r, start, clone[r][start]});
-        clone[r][start] = EMPTY;
-        ++brokenBrick;
+        q.offer(new int[]{r, start, map[r][start]});
+        map[r][start] = EMPTY;
 
         while (!q.isEmpty()) {
             pos = q.poll();
@@ -142,31 +151,25 @@ public class SWEA_5656_1 {
             c = pos[1];
             range = pos[2];
 
-            if (range > 1) {
-                for (int dir = 0; dir < 4; ++dir) {
-                    nr = r;
-                    nc = c;
-                    for (int i = 1; i < range; ++i) {
-                        nr += DR[dir];
-                        nc += DC[dir];
+            for (int dir = 0; dir < 4; ++dir) {
+                nr = r;
+                nc = c;
+                for (int i = 1; i < range; ++i) {
+                    nr += DR[dir];
+                    nc += DC[dir];
 
-                        // 범위를 벗어나면 그쪽 방향으로는 가지 않는다.
-                        if (isOutRange(nr, nc)) break;
-                        // 빈 공간이면 continue
-                        type = clone[nr][nc];
-                        if (type == EMPTY) continue;
+                    // 범위를 벗어나면 그쪽 방향으로는 가지 않는다.
+                    if (isOutRange(nr, nc)) break;
+                    // 빈 공간이면 continue
+                    type = map[nr][nc];
+                    if (type == EMPTY) continue;
 
-                        // 벽돌이 있으면 큐에 넣는다.
-                        if (type > 1) q.offer(new int[]{nr, nc, type});
-                        clone[nr][nc] = EMPTY;
-                        ++brokenBrick;
-                    }
+                    // 벽돌이 있으면 큐에 넣는다.
+                    if (type > 1) q.offer(new int[]{nr, nc, type});
+                    map[nr][nc] = EMPTY;
                 }
             }
         }
-
-        // 빈 공간을 채운다.
-        drop();
     }
 
     /**
@@ -180,31 +183,46 @@ public class SWEA_5656_1 {
     }
 
     /**
-     * clone 맵에서 빈 공간을 채운다.
+     * 맵에서 빈 공간을 채운다.
      */
-    private static void drop() {
+    private static void drop(int[][] map) {
         Queue<Integer> q =  new LinkedList<>();
         int tr;
         for (int c = 0; c < W; ++c) {
             for (int r = H - 1; r >= 0; --r) {
-                if (clone[r][c] != EMPTY) {
-                    q.offer(clone[r][c]);
-                    clone[r][c] = EMPTY;
+                if (map[r][c] != EMPTY) {
+                    q.offer(map[r][c]);
+                    map[r][c] = EMPTY;
                 }
             }
             for (int r = H - 1, len = H - q.size(); r >= len; --r) {
-                clone[r][c] = q.poll();
+                map[r][c] = q.poll();
             }
         }
     }
 
     /**
-     * 맵 디버깅용
+     * 맵에서 남은 벽돌의 개수를 리턴한다.
+     * @param map : 현재 맵
+     * @return 벽돌의 개수
      */
-    private static void debug() {
+    private static int getCntRemainBrick(int[][] map) {
+        int cnt = 0;
         for (int r = 0; r < H; ++r) {
             for (int c = 0; c < W; ++c) {
-                System.out.print(clone[r][c] + " ");
+                if (map[r][c] != EMPTY) ++cnt;
+            }
+        }
+        return cnt;
+    }
+
+    /**
+     * 맵 디버깅용
+     */
+    private static void debug(int[][] map) {
+        for (int r = 0; r < H; ++r) {
+            for (int c = 0; c < W; ++c) {
+                System.out.print(map[r][c] + " ");
             }
             System.out.println();
         }
