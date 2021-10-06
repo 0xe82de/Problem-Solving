@@ -90,7 +90,7 @@ public class SWEA_4014_1 {
             // 다음 위치가 1 높은 경우
             if (base < height[i]) {
                 // 평지 길이가 X보다 작으면
-                // 경사로를 세울 수 없ㄴ다.
+                // 경사로를 세울 수 없다.
                 if (platLen < X) return false;
                 // 평지 길이가 X보다 크거나 같으면 경사로를 세울 수 있다.
                 else {
