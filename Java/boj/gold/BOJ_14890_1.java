@@ -53,14 +53,24 @@ public class BOJ_14890_1 {
 
         int[] heightGaro = new int[N];
         int[] heightSero = new int[N];
+        boolean flatGaro, flatSero;
+        boolean flag = X * 2 <= N;
         for (int r = 0; r < N; ++r) {
+            flatGaro = true;
+            flatSero = true;
             for (int c = 0; c < N; ++c) {
                 heightGaro[c] = map[r][c];
                 heightSero[c] = map[c][r];
+
+                if (heightGaro[0] != heightGaro[c]) flatGaro = false;
+                if (heightSero[0] != heightSero[c]) flatSero = false;
             }
 
-            if (isValid(heightGaro)) ++cntCase;
-            if (isValid(heightSero)) ++cntCase;
+            if (flag && flatGaro) ++cntCase;
+            else if (isValid(heightGaro)) ++cntCase;
+
+            if (flag && flatSero) ++cntCase;
+            else if (isValid(heightSero)) ++cntCase;
         }
 
         return cntCase;
@@ -98,17 +108,13 @@ public class BOJ_14890_1 {
             else {
                 // i + X 위치가 활주로 크기를 벗어나면 경사로를 세울 수 없다.
                 if (i + X > N) return false;
-                // 경사로를 세우려면 다음 위치(i)부터 X 만큼의 높이가 딱 1만큼 작아야 한다.
-                int src = i;
-                int dst = i + X;
-                for (; src < dst; ++src) {
-                    // 높이가 맞지 않으면  경사로를 세울 수 없다.
-                    if (base - 1 != height[src]) return false;
+                // 높이가 1만큼 작지 않으면  경사로를 세울 수 없다.
+                for (int dst = i + X; i < dst; ++i) {
+                    if (base - 1 != height[i]) return false;
                 }
-                // 인덱스 값을 경사로의 끝 인덱스로 초기화한다.
-                i = dst - 1;
+                // 인덱스 값을 경사로의 끝 인덱스로 초기화하고,
                 // 기준 위치를 경사로를 세운 바닥의 높이로 초기화한다.
-                base = height[i];
+                base = height[--i];
                 // 경사로를 세웠기 때문에 평지 길이를 0으로 초기화한다.
                 platLen = 0;
             }
