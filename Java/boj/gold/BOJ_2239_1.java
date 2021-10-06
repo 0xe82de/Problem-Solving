@@ -93,11 +93,11 @@ public class BOJ_2239_1 {
     private static boolean isValid(int[][] sudoku, int curR, int curC, int number) {
         // 가로 확인
         for (int c = 0; c < SIZE; ++c)
-            if (curC != c && sudoku[curR][c] == number)
+            if (sudoku[curR][c] == number)
                 return false;
         // 세로 확인
         for (int r = 0; r < SIZE; ++r)
-            if (curR != r && sudoku[r][curC] == number)
+            if (sudoku[r][curC] == number)
                 return false;
         // 영역 확인
         int tr = curR / 3 * 3;
