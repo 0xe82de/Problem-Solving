@@ -87,8 +87,10 @@ public class SWEA_4014_1 {
         for (int i = 1; i < N; ++i) {
             if (Math.abs(base - height[i]) > 1) return false;
 
+            // 다음 위치와 높이가 같을 경우 평지 길이를 1 증가시킨다.
+            if (base == height[i]) ++platLen;
             // 다음 위치가 1 높은 경우
-            if (base < height[i]) {
+            else if (base < height[i]) {
                 // 평지 길이가 X보다 작으면
                 // 경사로를 세울 수 없다.
                 if (platLen < X) return false;
@@ -100,8 +102,6 @@ public class SWEA_4014_1 {
                     platLen = 1;
                 }
             }
-            // 다음 위치와 높이가 같을 경우 평지 길이를 1 증가시킨다.
-            else if (base == height[i]) ++platLen;
             // 다음 위치의 높이가 1 낮을 경우
             else {
                 // i + X 위치가 활주로 크기를 벗어나면 경사로를 세울 수 없다.
@@ -113,12 +113,12 @@ public class SWEA_4014_1 {
                     // 높이가 맞지 않으면  경사로를 세울 수 없다.
                     if (base - 1 != height[src]) return false;
                 }
+                // 인덱스 값을 경사로의 끝 인덱스로 초기화한다.
+                i = dst - 1;
+                // 기준 위치를 경사로를 세운 바닥의 높이로 초기화한다.
+                base = height[i];
                 // 경사로를 세웠기 때문에 평지 길이를 0으로 초기화한다.
                 platLen = 0;
-                // 기준 위치를 경사로를 세운 바닥의 높이로 초기화한다.
-                base = height[src - 1];
-                // 인덱스 값도 경사로를 세운 바닥의 인덱스로 초기화한다.
-                i = src - 1;
             }
         }
         return true;
