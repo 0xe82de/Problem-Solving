@@ -104,7 +104,6 @@ public class BOJ_2239_1 {
         int tc = curC / 3 * 3;
         for (int r = tr, lenR = tr + 3; r < lenR; ++r) {
             for (int c = tc, lenC = tc + 3; c < lenC; ++c) {
-                if (curR == r && curC == c) continue;
                 if (sudoku[r][c] == number) return false;
             }
         }
