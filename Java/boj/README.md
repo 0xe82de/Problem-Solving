@@ -42,11 +42,12 @@
 |  3   | 1987  |          [알파벳](https://www.acmicpc.net/problem/1987)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1987_1.java)  |  -   |    2    |     -     |             -              |
 |  4   | 2239  |          [스도쿠](https://www.acmicpc.net/problem/2239)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2239_1.java)  |  -   |    1    |     -     |       구현, 백트래킹       |
 |  5   | 2458  |          [키 순서](https://www.acmicpc.net/problem/2458)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2458_1.java)  |  -   |    1    |     O     |   그래프, 플로이드-와샬    |
-|  6   | 4485  | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_4485_2.java)  |  -   |    2    |     -     |      BFS, 다익스트라       |
-|  7   | 15691 |        [회전 초밥](https://www.acmicpc.net/problem/15961)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_15961_1.java) |  -   |    1    |     O     | 두 포인터, 슬라이딩 윈도우 |
-|  8   | 17135 |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |             -              |
-|  9   | 17144 |      [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17144_1.java) |  -   |    1    |     -     |            구현            |
-|  10  | 17406 |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |             -              |
+|  6   | 2580  |          [스도쿠](https://www.acmicpc.net/problem/2580)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2580_1.java)  |  -   |    1    |     -     |          백트래킹          |
+|  7   | 4485  | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_4485_2.java)  |  -   |    2    |     -     |      BFS, 다익스트라       |
+|  8   | 15691 |        [회전 초밥](https://www.acmicpc.net/problem/15961)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_15961_1.java) |  -   |    1    |     O     | 두 포인터, 슬라이딩 윈도우 |
+|  9   | 17135 |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |             -              |
+|  10  | 17144 |      [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17144_1.java) |  -   |    1    |     -     |            구현            |
+|  11  | 17406 |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |             -              |
 |  ?   |   ?   |                              [?](?)                               |                                           [Github]()                                            |  -   |    1    |     -     |             -              |
 
 ### Gold 5
