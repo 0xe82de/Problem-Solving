@@ -1,8 +1,6 @@
 package boj.bronze;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.StringTokenizer;
 
 /**
  * BOJ 2775 부녀회장이 될테야
