@@ -21,14 +21,17 @@ public class BOJ_2775_1 {
 
         // logic
         final int TC = Integer.parseInt(br.readLine());
-        int k = 0, n = 0;
+        int k , n;
         int[][] apart;
         for (int tc = 1; tc <= TC; ++tc) {
             k = Integer.parseInt(br.readLine());
             n = Integer.parseInt(br.readLine());
 
             apart = new int[k + 1][n];
-            Arrays.fill(apart[0], 1);
+            for (int i = 0; i < n; ++i) {
+                apart[0][i] = i + 1;
+            }
+
             for (int i = 1; i <= k; ++i) {
                 apart[i][0] = 1;
                 for (int j = 1; j < n; ++j) {
