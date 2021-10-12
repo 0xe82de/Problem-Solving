@@ -1,7 +1,6 @@
 package boj.bronze;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 /**
  * BOJ 2839 설탕 배달
