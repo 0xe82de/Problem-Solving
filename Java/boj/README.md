@@ -52,15 +52,16 @@
 
 ### Gold 5
 
-| 순번 | 번호  |                        이름                         |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |      비고       |
-| :--: | :---: | :-------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-------------: |
-|  1   | 1753  |  [최단경로](https://www.acmicpc.net/problem/1753)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1753_1.java)  |  -   |    1    |     O     |   다익스트라    |
-|  2   | 1759  | [암호 만들기](https://www.acmicpc.net/problem/1759) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1759_1.java)  |  -   |    1    |     O     |        -        |
-|  3   | 2493  |     [탑](https://www.acmicpc.net/problem/2493)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2493_1.java)  |  -   |    1    |     O     |        -        |
-|  4   | 2636  |    [치즈](https://www.acmicpc.net/problem/2636)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2636_1.java)  |  -   |    1    |     O     | DFS, BFS, 구현  |
-|  5   | 14502 |   [연구소](https://www.acmicpc.net/problem/14502)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_14502_1.java) |  -   |    1    |     -     | 브루트포스, DFS |
-|  6   | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_15686_1.java) |  -   |    1    |     -     |        -        |
-|  ?   |   ?   |                       [?](?)                        |                                           [Github]()                                            |  -   |    1    |     -     |        -        |
+| 순번 | 번호  |                                 이름                                 |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |      비고       |
+| :--: | :---: | :------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-------------: |
+|  1   | 1011  | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1011_1.java)  |  -   |    1    |     O     |      수학       |
+|  2   | 1753  |           [최단경로](https://www.acmicpc.net/problem/1753)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1753_1.java)  |  -   |    1    |     O     |   다익스트라    |
+|  3   | 1759  |         [암호 만들기](https://www.acmicpc.net/problem/1759)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1759_1.java)  |  -   |    1    |     O     |        -        |
+|  4   | 2493  |              [탑](https://www.acmicpc.net/problem/2493)              | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2493_1.java)  |  -   |    1    |     O     |        -        |
+|  5   | 2636  |             [치즈](https://www.acmicpc.net/problem/2636)             | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_2636_1.java)  |  -   |    1    |     O     | DFS, BFS, 구현  |
+|  6   | 14502 |           [연구소](https://www.acmicpc.net/problem/14502)            | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_14502_1.java) |  -   |    1    |     -     | 브루트포스, DFS |
+|  7   | 15686 |          [치킨 배달](https://www.acmicpc.net/problem/15686)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_15686_1.java) |  -   |    1    |     -     |        -        |
+|  ?   |   ?   |                                [?](?)                                |                                           [Github]()                                            |  -   |    1    |     -     |        -        |
 
 ### Silver 1
 
