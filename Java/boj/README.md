@@ -81,7 +81,7 @@
 | 순번 | 번호  |                             이름                             |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |                     비고                     |
 | :--: | :---: | :----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :------------------------------------------: |
 |  1   | 1260  |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1260_2.java)  |  -   |    2    |     O     |                      -                       |
-|  2   | 1780  |     [종이의 개수](https://www.acmicpc.net/problem/1780)      |                                            [Github]()                                             |  -   |    1    |     -     |               분할 정복, 재귀                |
+|  2   | 1780  |     [종이의 개수](https://www.acmicpc.net/problem/1780)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1780_1.java)  |  -   |    1    |     -     |               분할 정복, 재귀                |
 |  3   | 1929  |     [소수 구하기](https://www.acmicpc.net/problem/1929)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1929_1.java)  |  -   |    1    |     -     | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
 |  4   | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11729_1.java) |  -   |    1    |     O     |                      -                       |
 |  5   | 18442 |      [우체국 1](https://www.acmicpc.net/problem/18442)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18442_1.java) |  -   |    1    |     -     |                  브루트포스                  |
@@ -105,21 +105,22 @@
 
 ### Silver 4
 
-| 순번 | 번호  |                           이름                           |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |        비고        |
-| :--: | :---: | :------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :----------------: |
-|  1   | 1065  |       [한수](https://www.acmicpc.net/problem/1065)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1065_1.java)  |  -   |    1    |     -     |     브루트포스     |
-|  2   | 1244  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1244_1.java)  |  -   |    1    |     -     |        구현        |
-|  3   | 1755  |     [숫자놀이](https://www.acmicpc.net/problem/1755)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1755_1.java)  |  -   |    1    |     -     | 수학, 문자열, 정렬 |
-|  4   | 1978  |    [소수 찾기](https://www.acmicpc.net/problem/1978)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1978_1.java)  |  -   |    1    |     -     |         -          |
-|  5   | 2217  |       [로프](https://www.acmicpc.net/problem/2217)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |         -          |
-|  6   | 2331  |     [반복수열](https://www.acmicpc.net/problem/2331)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2331_1.java)  |  -   |    1    |     O     |         -          |
-|  7   | 9012  |       [괄호](https://www.acmicpc.net/problem/9012)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |         -          |
-|  8   | 10825 |     [국영수](https://www.acmicpc.net/problem/10825)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |         -          |
-|  9   | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |         -          |
-|  10  | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |         -          |
-|  11  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |         -          |
-|  12  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -     |  구현, 브루트포스  |
-|  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -     |         -          |
+| 순번 | 번호  |                           이름                           |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |          비고           |
+| :--: | :---: | :------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :---------------------: |
+|  1   | 1065  |       [한수](https://www.acmicpc.net/problem/1065)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1065_1.java)  |  -   |    1    |     -     |       브루트포스        |
+|  2   | 1244  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1244_1.java)  |  -   |    1    |     -     |          구현           |
+|  3   | 1755  |     [숫자놀이](https://www.acmicpc.net/problem/1755)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1755_1.java)  |  -   |    1    |     -     |   수학, 문자열, 정렬    |
+|  4   | 1978  |    [소수 찾기](https://www.acmicpc.net/problem/1978)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1978_1.java)  |  -   |    1    |     -     |            -            |
+|  5   | 2217  |       [로프](https://www.acmicpc.net/problem/2217)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |            -            |
+|  6   | 2331  |     [반복수열](https://www.acmicpc.net/problem/2331)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2331_1.java)  |  -   |    1    |     O     |            -            |
+|  7   | 9012  |       [괄호](https://www.acmicpc.net/problem/9012)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |            -            |
+|  8   | 10825 |     [국영수](https://www.acmicpc.net/problem/10825)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |            -            |
+|  9   | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |            -            |
+|  10  | 11653 |   [소인수분해](https://www.acmicpc.net/problem/11653)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11653_1.java) |  -   |    1    |     -     | 수학, 정수론, 소수 판정 |
+|  11  | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |            -            |
+|  12  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |            -            |
+|  13  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -     |    구현, 브루트포스     |
+|  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -     |            -            |
 
 ### Silver 5
 
