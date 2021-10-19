@@ -65,16 +65,17 @@
 
 ### Silver 1
 
-| 순번 | 번호  |                         이름                          |                                               코드                                                |                 풀이                  | 푼 횟수 | 복습 필요 |   비고    |
-| :--: | :---: | :---------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------: | :-----: | :-------: | :-------: |
-|  1   | 1149  |    [RGB거리](https://www.acmicpc.net/problem/1149)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1149_1.java)  |                   -                   |    1    |     O     |    DP     |
-|  2   | 1697  |   [숨바꼭질](https://www.acmicpc.net/problem/1697)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java)  |                   -                   |    1    |     O     |     -     |
-|  3   | 1992  |   [쿼드트리](https://www.acmicpc.net/problem/1992)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java)  | [Blog](https://0xe82de.tistory.com/2) |    2    |     -     |     -     |
-|  4   | 2178  |   [미로 탐색](https://www.acmicpc.net/problem/2178)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2178_1.java)  |                   -                   |    1    |     -     |    BFS    |
-|  5   | 2531  |   [회전 초밥](https://www.acmicpc.net/problem/2531)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2531_1.java)  |                   -                   |    1    |     -     | 두 포인터 |
-|  6   | 7576  |    [토마토](https://www.acmicpc.net/problem/7576)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_7576_1.java)  |                   -                   |    1    |     -     |    BFS    |
-|  7   | 15662 | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15662_1.java) |                   -                   |    1    |     -     |   구현    |
-|  ?   |   ?   |                        [?](?)                         |                                            [Github]()                                             |                   -                   |    1    |     -     |     -     |
+| 순번 | 번호  |                          이름                           |                                               코드                                                |                 풀이                  | 푼 횟수 | 복습 필요 |                     비고                     |
+| :--: | :---: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------: | :-----: | :-------: | :------------------------------------------: |
+|  1   | 1149  |     [RGB거리](https://www.acmicpc.net/problem/1149)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1149_1.java)  |                   -                   |    1    |     O     |                      DP                      |
+|  2   | 1697  |    [숨바꼭질](https://www.acmicpc.net/problem/1697)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_1.java)  |                   -                   |    1    |     O     |                      -                       |
+|  3   | 1992  |    [쿼드트리](https://www.acmicpc.net/problem/1992)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1992_2.java)  | [Blog](https://0xe82de.tistory.com/2) |    2    |     -     |                      -                       |
+|  4   | 2178  |    [미로 탐색](https://www.acmicpc.net/problem/2178)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2178_1.java)  |                   -                   |    1    |     -     |                     BFS                      |
+|  5   | 2531  |    [회전 초밥](https://www.acmicpc.net/problem/2531)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2531_1.java)  |                   -                   |    1    |     -     |                  두 포인터                   |
+|  6   | 7576  |     [토마토](https://www.acmicpc.net/problem/7576)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_7576_1.java)  |                   -                   |    1    |     -     |                     BFS                      |
+|  7   | 9020  | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9020_1.java)  |                   -                   |    1    |     -     | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
+|  8   | 15662 |  [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15662_1.java) |                   -                   |    1    |     -     |                     구현                     |
+|  ?   |   ?   |                         [?](?)                          |                                            [Github]()                                             |                   -                   |    1    |     -     |                      -                       |
 
 ### Silver 2
 
