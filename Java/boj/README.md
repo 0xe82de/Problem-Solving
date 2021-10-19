@@ -83,8 +83,9 @@
 |  1   | 1260  |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1260_2.java)  |  -   |    2    |     O     |                      -                       |
 |  2   | 1780  |     [종이의 개수](https://www.acmicpc.net/problem/1780)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1780_1.java)  |  -   |    1    |     -     |               분할 정복, 재귀                |
 |  3   | 1929  |     [소수 구하기](https://www.acmicpc.net/problem/1929)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1929_1.java)  |  -   |    1    |     -     | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
-|  4   | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11729_1.java) |  -   |    1    |     O     |                      -                       |
-|  5   | 18442 |      [우체국 1](https://www.acmicpc.net/problem/18442)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18442_1.java) |  -   |    1    |     -     |                  브루트포스                  |
+|  4   | 4948  |    [베르트랑 공준](https://www.acmicpc.net/problem/4948)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_4948_1.java)  |  -   |    1    |     -     | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
+|  5   | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11729_1.java) |  -   |    1    |     O     |                      -                       |
+|  6   | 18442 |      [우체국 1](https://www.acmicpc.net/problem/18442)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18442_1.java) |  -   |    1    |     -     |                  브루트포스                  |
 |  ?   |   ?   |                            [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |                      -                       |
 
 ### Silver 3
