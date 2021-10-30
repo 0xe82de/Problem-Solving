@@ -24,7 +24,7 @@ public class BOJ_2750_2 {
             arr[i] = Integer.parseInt(br.readLine());
         }
 
-        BubbleSort(arr);
+        bubbleSort(arr);
 
         for (int i = 0; i < N; ++i) {
             sb.append(arr[i] + "\n");
@@ -42,7 +42,7 @@ public class BOJ_2750_2 {
      * 거품 정렬
      * @param arr : 정렬할 배열
      */
-    private static void BubbleSort(int[] arr) {
+    private static void bubbleSort(int[] arr) {
         final int SIZE = arr.length - 1;
         int temp;
         for (int i = 0; i < SIZE; ++i) {
