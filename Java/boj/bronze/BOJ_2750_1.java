@@ -24,7 +24,7 @@ public class BOJ_2750_1 {
             arr[i] = Integer.parseInt(br.readLine());
         }
 
-        InsertionSort(arr);
+        insertionSort(arr);
 
         for (int i = 0; i < N; ++i) {
             sb.append(arr[i] + "\n");
@@ -42,7 +42,7 @@ public class BOJ_2750_1 {
      * 삽입 정렬
      * @param arr : 정렬할 배열
      */
-    private static void InsertionSort(int[] arr) {
+    private static void insertionSort(int[] arr) {
         final int SIZE = arr.length;
         int temp, j;
         for (int i = 1; i < SIZE; ++i) {
