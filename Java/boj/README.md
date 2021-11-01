@@ -118,12 +118,13 @@
 |  6   | 2217  |       [로프](https://www.acmicpc.net/problem/2217)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2217_1.java)  |  -   |    1    |     -     |            -            |
 |  7   | 2331  |     [반복수열](https://www.acmicpc.net/problem/2331)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2331_1.java)  |  -   |    1    |     O     |            -            |
 |  8   | 9012  |       [괄호](https://www.acmicpc.net/problem/9012)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9012_1.java)  |  -   |    1    |     -     |            -            |
-|  9   | 10825 |     [국영수](https://www.acmicpc.net/problem/10825)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |            -            |
-|  10  | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |            -            |
-|  11  | 11653 |   [소인수분해](https://www.acmicpc.net/problem/11653)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11653_1.java) |  -   |    1    |     -     | 수학, 정수론, 소수 판정 |
-|  12  | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |            -            |
-|  13  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |            -            |
-|  14  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -     |    구현, 브루트포스     |
+|  9   | 10773 |      [제로](https://www.acmicpc.net/problem/10773)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10773_1.java) |  -   |    1    |     -     |  구현, 자료 구조, 스택  |
+|  10  | 10825 |     [국영수](https://www.acmicpc.net/problem/10825)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10825_1.java) |  -   |    1    |     O     |            -            |
+|  11  | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |            -            |
+|  12  | 11653 |   [소인수분해](https://www.acmicpc.net/problem/11653)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11653_1.java) |  -   |    1    |     -     | 수학, 정수론, 소수 판정 |
+|  13  | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |            -            |
+|  14  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |            -            |
+|  15  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -     |    구현, 브루트포스     |
 |  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -     |            -            |
 
 ### Silver 5
