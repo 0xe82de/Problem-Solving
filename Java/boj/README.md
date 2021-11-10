@@ -92,19 +92,20 @@
 
 ### Silver 3
 
-| 순번 | 번호  |                          이름                          |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |       비고       |
-| :--: | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--------------: |
-|  1   | 1463  |   [1로 만들기](https://www.acmicpc.net/problem/1463)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1463_2.java)  |  -   |    2    |     -     |        DP        |
-|  2   | 1699  |  [제곱수의 합](https://www.acmicpc.net/problem/1699)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1699_1.java)  |  -   |    1    |     O     |        DP        |
-|  3   | 2193  |     [이진수](https://www.acmicpc.net/problem/2193)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2193_1.java)  |  -   |    1    |     -     |        DP        |
-|  4   | 2615  |      [오목](https://www.acmicpc.net/problem/2615)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2615_1.java)  |  -   |    1    |     -     | 구현, 브루트포스 |
-|  5   | 2630  | [색종이 만들기](https://www.acmicpc.net/problem/2630)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2630_1.java)  |  -   |    1    |     -     |        -         |
-|  6   | 9095  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9095_1.java)  |  -   |    1    |     -     |        DP        |
-|  7   | 9613  |     [GCD 합](https://www.acmicpc.net/problem/9613)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9613_1.java)  |  -   |    1    |     O     |        -         |
-|  8   | 11726 |  [2xn 타일링](https://www.acmicpc.net/problem/11726)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11726_1.java) |  -   |    1    |     -     |        DP        |
-|  9   | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11727_1.java) |  -   |    1    |     -     |        DP        |
-|  10  | 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_1.java) |  -   |    1    |     O     |        -         |
-|  ?   |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |        -         |
+| 순번 | 번호  |                          이름                          |                                               코드                                                | 풀이 | 푼 횟수 | 복습 필요 |             비고             |
+| :--: | :---: | :----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--------------------------: |
+|  1   | 1406  |     [에디터](https://www.acmicpc.net/problem/1406)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1406_1.java)  |  -   |    1    |     O     | 자료 구조, 스택, 연결 리스트 |
+|  2   | 1463  |   [1로 만들기](https://www.acmicpc.net/problem/1463)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1463_2.java)  |  -   |    2    |     -     |              DP              |
+|  3   | 1699  |  [제곱수의 합](https://www.acmicpc.net/problem/1699)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1699_1.java)  |  -   |    1    |     O     |              DP              |
+|  4   | 2193  |     [이진수](https://www.acmicpc.net/problem/2193)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2193_1.java)  |  -   |    1    |     -     |              DP              |
+|  5   | 2615  |      [오목](https://www.acmicpc.net/problem/2615)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2615_1.java)  |  -   |    1    |     -     |       구현, 브루트포스       |
+|  6   | 2630  | [색종이 만들기](https://www.acmicpc.net/problem/2630)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2630_1.java)  |  -   |    1    |     -     |              -               |
+|  7   | 9095  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9095_1.java)  |  -   |    1    |     -     |              DP              |
+|  8   | 9613  |     [GCD 합](https://www.acmicpc.net/problem/9613)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_9613_1.java)  |  -   |    1    |     O     |              -               |
+|  9   | 11726 |  [2xn 타일링](https://www.acmicpc.net/problem/11726)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11726_1.java) |  -   |    1    |     -     |              DP              |
+|  10  | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11727_1.java) |  -   |    1    |     -     |              DP              |
+|  11  | 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_1.java) |  -   |    1    |     O     |              -               |
+|  ?   |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |              -               |
 
 ### Silver 4
 
@@ -279,7 +280,7 @@
 |  14  | 10172 |         [개](https://www.acmicpc.net/problem/10172)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10172_1.java) |  -   |    1    |     -     |                  -                   |
 |  15  | 10430 |       [나머지](https://www.acmicpc.net/problem/10430)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10430_1.java) |  -   |    1    |     -     |                  -                   |
 |  16  | 10718 |   [We love kriii](https://www.acmicpc.net/problem/10718)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10718_1.java) |  -   |    1    |     -     |                  -                   |
-|  17  | 10757 |     [큰 수 A+B](https://www.acmicpc.net/problem/10757)      |                                            [Github]()                                             |  -   |    1    |     -     | 수학, 구현, 임의 정밀도 / 큰 수 연산 |
+|  17  | 10757 |     [큰 수 A+B](https://www.acmicpc.net/problem/10757)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10757_1.java) |  -   |    1    |     -     | 수학, 구현, 임의 정밀도 / 큰 수 연산 |
 |  18  | 10998 |        [A×B](https://www.acmicpc.net/problem/10998)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10998_1.java) |  -   |    1    |     -     |                  -                   |
 |  19  | 11654 |    [아스키 코드](https://www.acmicpc.net/problem/11654)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11654_1.java) |  -   |    1    |     -     |                 구현                 |
 |  ?   |   ?   |                           [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |                  -                   |
