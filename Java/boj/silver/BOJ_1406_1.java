@@ -34,7 +34,6 @@ public class BOJ_1406_1 {
         int M = Integer.parseInt(br.readLine());
 
         char[] command;
-        int cursor = SIZE;
         for (int m = 0; m < M; ++m) {
             command = br.readLine().toCharArray();
 
