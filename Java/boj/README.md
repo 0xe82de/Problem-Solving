@@ -174,10 +174,11 @@
 |  11  | 2869  |        [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2869_1.java)  |  -   |    1    |     -     |       수학       |
 |  12  | 2954  |           [창영이의 일기장](https://www.acmicpc.net/problem/2954)            | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2954_1.java)  |  -   |    1    |     -     |        -         |
 |  13  | 4344  |            [평균은 넘겠지](https://www.acmicpc.net/problem/4344)             | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_4344_1.java)  |  -   |    1    |     -     |  수학, 사칙연산  |
-|  14  | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |        -         |
-|  15  | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |        -         |
-|  16  | 11719 |          [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11719_1.java) |  -   |    1    |     -     |       구현       |
-|  17  | 14696 |              [딱지놀이](https://www.acmicpc.net/problem/14696)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14696_1.java) |  -   |    1    |     -     |        -         |
+|  14  | 9093  |             [단어 뒤집기](https://www.acmicpc.net/problem/9093)              | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_9093_1.java)  |  -   |    1    |     -     |      문자열      |
+|  15  | 10163 |               [색종이](https://www.acmicpc.net/problem/10163)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10163_1.java) |  -   |    1    |     -     |        -         |
+|  16  | 11655 |                [ROT13](https://www.acmicpc.net/problem/11655)                | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11655_1.java) |  -   |    1    |     -     |        -         |
+|  17  | 11719 |          [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11719_1.java) |  -   |    1    |     -     |       구현       |
+|  18  | 14696 |              [딱지놀이](https://www.acmicpc.net/problem/14696)               | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14696_1.java) |  -   |    1    |     -     |        -         |
 |  ?   |   ?   |                                    [?](?)                                    |                                            [Github]()                                             |  -   |    1    |     -     |        -         |
 
 ### Bronze 2
