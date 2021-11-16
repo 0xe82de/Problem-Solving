@@ -128,8 +128,9 @@
 |  13  | 10845 |       [큐](https://www.acmicpc.net/problem/10845)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10845_1.java) |  -   |    1    |     O     |            -            |
 |  14  | 11653 |   [소인수분해](https://www.acmicpc.net/problem/11653)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11653_1.java) |  -   |    1    |     -     | 수학, 정수론, 소수 판정 |
 |  15  | 11656 |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11656_1.java) |  -   |    1    |     O     |            -            |
-|  16  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |            -            |
-|  17  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -     |    구현, 브루트포스     |
+|  16  | 11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11866_1.java) |  -   |    1    |     -     |   구현, 자료 구조, 큐   |
+|  17  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O     |            -            |
+|  18  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -     |    구현, 브루트포스     |
 |  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -     |            -            |
 
 ### Silver 5
