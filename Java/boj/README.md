@@ -47,7 +47,8 @@
 |  8   | 15691 |        [회전 초밥](https://www.acmicpc.net/problem/15961)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_15961_1.java) |  -   |    1    |     O     | 두 포인터, 슬라이딩 윈도우 |
 |  9   | 17135 |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |  -   |    1    |     -     |             -              |
 |  10  | 17144 |      [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17144_1.java) |  -   |    1    |     -     |            구현            |
-|  11  | 17406 |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |             -              |
+|  11  | 17298 |          [오큰수](https://www.acmicpc.net/problem/17298)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17298_1.java) |  -   |    1    |     -     |       자료구조, 스택       |
+|  12  | 17406 |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |  -   |    1    |     O     |             -              |
 |  ?   |   ?   |                              [?](?)                               |                                           [Github]()                                            |  -   |    1    |     -     |             -              |
 
 ### Gold 5
