@@ -160,12 +160,13 @@
 |  16  | 2941  |  [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_2941_1.java)  |  -   |    1    |     -     |      구현, 문자열       |
 |  17  | 4673  |      [셀프 넘버](https://www.acmicpc.net/problem/4673)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_4673_1.java)  |  -   |    1    |     -     |          구현           |
 |  18  | 7568  |        [덩치](https://www.acmicpc.net/problem/7568)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_7568_1.java)  |  -   |    1    |     -     |    구현, 브루트포스     |
-|  19  | 10989 |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10989_1.java) |  -   |    1    |     O     |            -            |
-|  20  | 11576 |  [Base Conversion](https://www.acmicpc.net/problem/11576)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11576_1.java) |  -   |    1    |     -     |            -            |
-|  21  | 11650 |   [좌표 정렬하기](https://www.acmicpc.net/problem/11650)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11650_1.java) |  -   |    1    |     -     |          정렬           |
-|  22  | 11651 |  [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11651_1.java) |  -   |    1    |     -     |          정렬           |
-|  23  | 11728 |    [배열 합치기](https://www.acmicpc.net/problem/11728)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |  -   |    1    |     -     |            -            |
-|  24  | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_2.java) |  -   |    2    |     O     |            -            |
+|  19  | 10814 |    [나이순 정렬](https://www.acmicpc.net/problem/10814)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_7568_1.java)  |  -   |    1    |     -     |          정렬           |
+|  20  | 10989 |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_10989_1.java) |  -   |    1    |     O     |            -            |
+|  21  | 11576 |  [Base Conversion](https://www.acmicpc.net/problem/11576)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11576_1.java) |  -   |    1    |     -     |            -            |
+|  22  | 11650 |   [좌표 정렬하기](https://www.acmicpc.net/problem/11650)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11650_1.java) |  -   |    1    |     -     |          정렬           |
+|  23  | 11651 |  [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11651_1.java) |  -   |    1    |     -     |          정렬           |
+|  24  | 11728 |    [배열 합치기](https://www.acmicpc.net/problem/11728)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |  -   |    1    |     -     |            -            |
+|  25  | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_2.java) |  -   |    2    |     O     |            -            |
 |  ?   |   ?   |                           [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |            -            |
 
 ### Bronze 1
