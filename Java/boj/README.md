@@ -89,6 +89,7 @@
 |  4   | 4948  |    [베르트랑 공준](https://www.acmicpc.net/problem/4948)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_4948_1.java)  |  -   |    1    |     -     | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
 |  5   | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11729_1.java) |  -   |    1    |     O     |                      -                       |
 |  6   | 18442 |      [우체국 1](https://www.acmicpc.net/problem/18442)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18442_1.java) |  -   |    1    |     -     |                  브루트포스                  |
+|  7   | 18870 |      [좌표 압축](https://www.acmicpc.net/problem/18870)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18870_1.java) |  -   |    1    |     -     |             정렬, 값 / 좌표 압축             |
 |  ?   |   ?   |                            [?](?)                            |                                            [Github]()                                             |  -   |    1    |     -     |                      -                       |
 
 ### Silver 3
