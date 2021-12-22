@@ -149,6 +149,7 @@
 |  19  | 11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11866_1.java) |  -   |    1    |     -      |   구현, 자료 구조, 큐   |
 |  20  | 13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_13305_1.java) |  -   |    1    |     O      |            -            |
 |  21  | 16463 |  [13일의 금요일](https://www.acmicpc.net/problem/16463)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16463_1.java) |  -   |    1    |     -      |    구현, 브루트포스     |
+|  22  | 18258 |      [큐 2](https://www.acmicpc.net/problem/18258)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18258_1.java) |  -   |    1    |     -      |      자료 구조, 큐      |
 |  ?   |   ?   |                          [?](?)                          |                                            [Github]()                                             |  -   |    1    |     -      |            -            |
 
 ### Silver 5
