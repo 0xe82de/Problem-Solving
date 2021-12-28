@@ -23,7 +23,7 @@ public class BOJ_11051_1 {
         // logic
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        // 1 <= N <= 10
+        // 1 <= N <= 1,000
         final int N = Integer.parseInt(st.nextToken());
         // 0 <= K <= N
         final int K = Integer.parseInt(st.nextToken());
