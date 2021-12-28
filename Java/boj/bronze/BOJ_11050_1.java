@@ -17,7 +17,7 @@ public class BOJ_11050_1 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         // logic
-        StringTokenizer st = new StringTokenizer(br.readLine(), " '");
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
         // 1 <= N <= 10
         final int N = Integer.parseInt(st.nextToken());
