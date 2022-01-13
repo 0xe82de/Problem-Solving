@@ -260,6 +260,7 @@
 |  25  | 13300 |        [방 배정](https://www.acmicpc.net/problem/13300)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_13300_1.java) |  -   |    1    |     -     |      구현      |
 |  26  | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     |      구현      |
 |  27  | 15596 |     [정수 N개의 합](https://www.acmicpc.net/problem/15596)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15596_1.java) |  -   |    1    |     -     |      구현      |
+|  18  | 15829 |        [Hashing](https://www.acmicpc.net/problem/15829)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15829_1.java) |  -   |    1    |     -     |      해싱      |
 |  ?   |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |       -        |
 
 ### Bronze 3
