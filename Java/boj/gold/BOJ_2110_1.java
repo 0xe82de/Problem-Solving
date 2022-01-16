@@ -13,7 +13,6 @@ import java.util.StringTokenizer;
 public class BOJ_2110_1 {
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("input.txt"));
         // io
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
