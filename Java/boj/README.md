@@ -21,11 +21,11 @@
 
 ### Gold 2
 
-| 순번  |                          번호                          |                                              이름                                               | 코드 | 풀이 | 푼 횟수 |            복습 필요            | 비고 |
-| :---: | :----------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :--: | :-----: | :-----------------------------: | ---- |
-| 3109  |      [빵집](https://www.acmicpc.net/problem/3109)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_3109_1.java)  |  -   |  1   |    O    |                -                |
-| 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17472_1.java) |  -   |  1   |    O    | 구현, 브루트포스, DFS, BFS, MST |
-|   ?   |                         [?](?)                         |                                           [Github]()                                            |  -   |  1   |    -    |                -                |
+| 번호  |                          이름                          |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |              비고               |
+| :---: | :----------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-----------------------------: |
+| 3109  |      [빵집](https://www.acmicpc.net/problem/3109)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_3109_1.java)  |  -   |    1    |     O     |                -                |
+| 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17472_1.java) |  -   |    1    |     O     | 구현, 브루트포스, DFS, BFS, MST |
+|   ?   |                         [?](?)                         |                                           [Github]()                                            |  -   |    1    |     -     |                -                |
 
 ### Gold 3
 
