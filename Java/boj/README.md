@@ -326,6 +326,7 @@
 | 2588  |      [곱셈](https://www.acmicpc.net/problem/2588)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2588_1.java)  |  -   |    1    |     -     |         -          |
 | 2753  |      [윤년](https://www.acmicpc.net/problem/2753)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2753_1.java)  |  -   |    1    |     -     |         -          |
 | 9498  |   [시험 성적](https://www.acmicpc.net/problem/9498)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_9498_1.java)  |  -   |    1    |     -     |         -          |
+| 10039 |   [평균 점수](https://www.acmicpc.net/problem/10039)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10039_1.java) |  -   |    1    |     -     |        수학        |
 | 10162 |  [전자레인지](https://www.acmicpc.net/problem/10162)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10162_1.java) |  -   |    1    |     -     | 수학, 구현, 그리디 |
 | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_14681_1.java) |  -   |    1    |     -     |         -          |
 |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |         -          |
