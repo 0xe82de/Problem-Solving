@@ -90,6 +90,7 @@
 | 11051 |   [이항 계수 2](https://www.acmicpc.net/problem/11051)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11051_1.java) |                   -                   |    1    |     -     |               수학, DP, 조합론               |
 | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_14888_1.java) |                   -                   |    1    |     -     |             브루트포스, 백트래킹             |
 | 15662 |  [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15662_1.java) |                   -                   |    1    |     -     |                     구현                     |
+| 16953 |      [A → B](https://www.acmicpc.net/problem/16953)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16953_1.java) |                   -                   |    1    |     -     |                 그리디, BFS                  |
 |   ?   |                          [?](?)                          |                                            [Github]()                                             |                   -                   |    1    |     -     |                      -                       |
 
 ### Silver 2
