@@ -47,10 +47,4 @@ public class BOJ_1927_1 {
         br.close();
     }
 
-    private static void compute() {
-
-
-
-    }
-
 }
