@@ -343,6 +343,7 @@
 | 1330  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1330_1.java)  |  -   |    1    |     -     |         -          |
 | 1712  |   [손익분기점](https://www.acmicpc.net/problem/1712)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1712_1.java)  |  -   |    1    |     -     |   수학, 사칙연산   |
 | 2588  |      [곱셈](https://www.acmicpc.net/problem/2588)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2588_1.java)  |  -   |    1    |     -     |         -          |
+| 2752  |    [세수정렬](https://www.acmicpc.net/problem/2752)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2752_1.java)  |  -   |    1    |     -     |        정렬        |
 | 2753  |      [윤년](https://www.acmicpc.net/problem/2753)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2753_1.java)  |  -   |    1    |     -     |         -          |
 | 9498  |   [시험 성적](https://www.acmicpc.net/problem/9498)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_9498_1.java)  |  -   |    1    |     -     |         -          |
 | 10039 |   [평균 점수](https://www.acmicpc.net/problem/10039)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_10039_1.java) |  -   |    1    |     -     |        수학        |
