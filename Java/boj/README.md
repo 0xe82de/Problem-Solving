@@ -313,6 +313,7 @@
 | 2441  |      [별 찍기 - 4](https://www.acmicpc.net/problem/2441)       |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2441_1.java)  |  -   |    1    |     -     |         구현         |
 | 2442  |      [별 찍기 - 5](https://www.acmicpc.net/problem/2442)       |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2442_1.java)  |  -   |    1    |     -     |         구현         |
 | 2443  |      [별 찍기 - 6](https://www.acmicpc.net/problem/2443)       |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2443_1.java)  |  -   |    1    |     -     |         구현         |
+| 2444  |      [별 찍기 - 7](https://www.acmicpc.net/problem/2444)       |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2444_1.java)  |  -   |    1    |     -     |         구현         |
 | 2445  |      [별 찍기 - 8](https://www.acmicpc.net/problem/2445)       |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2445_1.java)  |  -   |    1    |     -     |         구현         |
 | 2446  |      [별 찍기 - 9](https://www.acmicpc.net/problem/2446)       |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2446_1.java)  |  -   |    1    |     -     |         구현         |
 | 2522  |      [별 찍기 - 12](https://www.acmicpc.net/problem/2522)      |  [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2522_1.java)  |  -   |    1    |     -     |         구현         |
