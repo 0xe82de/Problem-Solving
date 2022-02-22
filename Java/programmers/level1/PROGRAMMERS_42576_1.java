@@ -1,4 +1,4 @@
-package programmers.practice;
+package programmers.level1;
 
 import java.io.*;
 import java.util.*;
