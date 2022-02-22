@@ -4,9 +4,9 @@ import java.io.*;
 import java.util.*;
 
 /**
- * BOJ
- * G5
- * ???
+ * PROGRAMMERS 42576 완주하지 못한 선수
+ * Level 1
+ * 해시
  */
 
 public class PROGRAMMERS_42576_1 {
