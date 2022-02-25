@@ -5,7 +5,7 @@ import java.util.*;
 
 /**
  * PROGRAMMERS 42579 베스트앨범
- * Level3
+ * Level 3
  * 해시
  */
 
