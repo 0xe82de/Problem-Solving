@@ -17,6 +17,7 @@
 | :---: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
 | 42577 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42577_1.java) |  -   |    1    |     -     | 해시 |
 | 42578 |       [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42578_1.java) |  -   |    1    |     -     | 해시 |
+| 42586 |     [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42586_1.java) |  -   |    1    |     -     |  큐  |
 | 81302 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_81302_1.java) |  -   |    1    |     O     | DFS  |
 |   ?   |                                    [?](?)                                     |                                                    [Github]()                                                     |  -   |    1    |     -     |  -   |
 
