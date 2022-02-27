@@ -12,12 +12,10 @@ import java.util.*;
 public class PROGRAMMERS_42577_1 {
 
     public static void main(String[] args) throws IOException {
-        // io
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        // input
+        String[] phone_book = {"123","123456","789"};
 
         // logic
-        String[] phone_book = {"123","123456","789"};
         boolean answer = true;
 
         Map<String, Integer> map = new HashMap<>();
@@ -35,11 +33,7 @@ public class PROGRAMMERS_42577_1 {
         }
 
         // output
-        bw.write(String.valueOf(answer));
-
-        // io close
-        bw.close();
-        br.close();
+        System.out.println("answer = " + answer);
     }
 
 }

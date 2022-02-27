@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * BOJ 위장
+ * PROGRAMMERS 42578 위장
  * Level 2
  * 해시
  */
@@ -12,13 +12,7 @@ import java.util.*;
 public class PROGRAMMERS_42578_1 {
 
     public static void main(String[] args) throws IOException {
-        // io
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
-        // logic
-        final int KIND = 1;
-
+        // input
         String[][] clothes = {
                 {"yellowhat", "headgear"},
                 {"green_turban", "headgear"},
@@ -27,6 +21,9 @@ public class PROGRAMMERS_42578_1 {
                 {"a", "top"},
                 {"b", "bottom"}
         };
+
+        // logic
+        final int KIND = 1;
         int answer = 1;
 
         Map<String, Integer> clothCountMap = new HashMap<>();
@@ -42,10 +39,6 @@ public class PROGRAMMERS_42578_1 {
         --answer;
 
         // output
-        bw.write(String.valueOf(answer));
-
-        // io close
-        bw.close();
-        br.close();
+        System.out.println("answer = " + answer);
     }
 }

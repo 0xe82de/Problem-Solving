@@ -12,13 +12,11 @@ import java.util.*;
 public class PROGRAMMERS_42576_1 {
 
     public static void main(String[] args) throws IOException {
-        // io
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
-        // logic
+        // input
         String[] participant = {"leo", "kiki", "eden"};
         String[] completion = {"eden", "kiki"};
+
+        // logic
         String answer = "";
 
         Map<String, Integer> map = new HashMap<>();
@@ -37,11 +35,7 @@ public class PROGRAMMERS_42576_1 {
         }
 
         // output
-        bw.write(answer);
-
-        // io close
-        bw.close();
-        br.close();
+        System.out.println("answer = " + answer);
     }
 
 }

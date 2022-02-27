@@ -1,5 +1,15 @@
 package programmers.level2;
 
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
+
+/**
+ * PROGRAMMERS 81032 거리두기 확인하기
+ * Level 2
+ * BFS
+ */
+
 /*
  * 접근 방식
  * 1. 'P' 사람의 위치를 queue로 관리한다.
@@ -7,14 +17,10 @@ package programmers.level2;
  * 3. 맨하튼 거리보다 짧은데, 중간에 벽이 없으면 false이다.
  */
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
-
 public class PROGRAMMERS_81302_1 {
 	
 	public static void main(String[] args) {
-		
+		// input
 		String[][] places = {
 				{"POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"},
 				{"POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"},
@@ -22,8 +28,11 @@ public class PROGRAMMERS_81302_1 {
 				{"OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"},
 				{"PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"}
 		};
-		
+
+		// logic
 		int[] answer = solution(places);
+
+		// output
 		System.out.println(Arrays.toString(answer));
 	}
 

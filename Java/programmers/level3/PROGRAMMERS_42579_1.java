@@ -16,13 +16,11 @@ public class PROGRAMMERS_42579_1 {
     static int SIZE;
 
     public static void main(String[] args) throws IOException {
-        // io
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
-        // logic
+        // input
         String[] genres = {"classic", "pop", "classic", "classic", "pop"};
         int[] plays = {500, 600, 150, 800, 2500};
+
+        // logic
         int[] answer = {};
 
         SIZE = genres.length;
@@ -50,11 +48,7 @@ public class PROGRAMMERS_42579_1 {
         answer = albums.stream().mapToInt(i -> i).toArray();
 
         // output
-        bw.write(Arrays.toString(answer));
-
-        // io close
-        bw.close();
-        br.close();
+        System.out.println("answer = " + Arrays.toString(answer));
     }
 
     static class Song implements Comparable<Song> {
