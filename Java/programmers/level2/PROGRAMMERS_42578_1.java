@@ -1,6 +1,5 @@
 package programmers.level2;
 
-import java.io.*;
 import java.util.*;
 
 /**
@@ -11,7 +10,7 @@ import java.util.*;
 
 public class PROGRAMMERS_42578_1 {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         // input
         String[][] clothes = {
                 {"yellowhat", "headgear"},

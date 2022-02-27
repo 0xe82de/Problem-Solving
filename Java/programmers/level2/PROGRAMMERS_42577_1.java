@@ -1,6 +1,5 @@
 package programmers.level2;
 
-import java.io.*;
 import java.util.*;
 
 /**
@@ -11,7 +10,7 @@ import java.util.*;
 
 public class PROGRAMMERS_42577_1 {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         // input
         String[] phone_book = {"123","123456","789"};
 

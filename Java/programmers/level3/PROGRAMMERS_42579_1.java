@@ -1,6 +1,5 @@
 package programmers.level3;
 
-import java.io.*;
 import java.util.*;
 
 /**
@@ -15,7 +14,7 @@ public class PROGRAMMERS_42579_1 {
 
     static int SIZE;
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         // input
         String[] genres = {"classic", "pop", "classic", "classic", "pop"};
         int[] plays = {500, 600, 150, 800, 2500};
