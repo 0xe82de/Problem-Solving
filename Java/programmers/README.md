@@ -21,6 +21,7 @@
 | 42584 |      [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42584_1.java) |  -   |    1    |     O     | 스택, 큐 |
 | 42586 |      [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42586_1.java) |  -   |    1    |     -     |    큐    |
 | 42587 |       [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42587_1.java) |  -   |    1    |     -     |    큐    |
+| 42746 |     [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42746_1.java) |  -   |    1    |     -     |   정렬   |
 | 81302 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_81302_1.java) |  -   |    1    |     O     |   DFS    |
 |   ?   |                                     [?](?)                                     |                                                    [Github]()                                                     |  -   |    1    |     -     |    -     |
 
