@@ -24,6 +24,7 @@
 | 42747 |      [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42747_1.java) |  -   |    1    |     -     |   정렬    |
 | 42746 |     [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42746_1.java) |  -   |    1    |     -     |   정렬    |
 | 42839 |     [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42839_1.java) |  -   |    1    |     -     | 완전 탐색 |
+| 42842 |        [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42842_1.java) |  -   |    1    |     -     | 완전 탐색 |
 | 81302 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_81302_1.java) |  -   |    1    |     O     |    DFS    |
 |   ?   |                                     [?](?)                                     |                                                    [Github]()                                                     |  -   |    1    |     -     |     -     |
 
