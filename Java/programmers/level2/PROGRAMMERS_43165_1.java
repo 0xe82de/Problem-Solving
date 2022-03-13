@@ -1,4 +1,4 @@
-package solving;
+package programmers.level2;
 
 /**
  * PROGRAMMERS 43165 타겟 넘버
