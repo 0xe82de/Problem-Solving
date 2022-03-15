@@ -29,11 +29,12 @@
 
 ### Gold 3
 
-| 번호  |                       이름                        |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |      비고       |
-| :---: | :-----------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-------------: |
-| 14890 |  [경사로](https://www.acmicpc.net/problem/14890)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_14890_1.java) |  -   |    1    |     -     |      구현       |
-| 17299 | [오등큰수](https://www.acmicpc.net/problem/17299) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17299_1.java) |  -   |    1    |     O     | 자료 구조, 스택 |
-|   ?   |                      [?](?)                       |                                           [Github]()                                            |  -   |    1    |     -     |        -        |
+| 번호  |                         이름                          |                                              코드                                               | 풀이 | 푼 횟수 | 복습 필요 |                          비고                           |
+| :---: | :---------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :-----------------------------------------------------: |
+| 1644  | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1644_1.java)  |  -   |    1    |     -     | 수학, 정수론, 두 포인터, 소수 판정, 에라토스테네스의 체 |
+| 14890 |    [경사로](https://www.acmicpc.net/problem/14890)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_14890_1.java) |  -   |    1    |     -     |                          구현                           |
+| 17299 |   [오등큰수](https://www.acmicpc.net/problem/17299)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17299_1.java) |  -   |    1    |     O     |                     자료 구조, 스택                     |
+|   ?   |                        [?](?)                         |                                           [Github]()                                            |  -   |    1    |     -     |                            -                            |
 
 ### Gold 4
 
