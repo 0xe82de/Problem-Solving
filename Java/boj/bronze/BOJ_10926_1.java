@@ -3,7 +3,7 @@ package boj.bronze;
 import java.io.*;
 
 /**
- * BOJ 10926
+ * BOJ 10926 ??!
  * B5
  * 구현
  */
@@ -20,11 +20,8 @@ public class BOJ_10926_1 {
         // logic
         String id = br.readLine();
 
-        StringBuilder sb = new StringBuilder();
-        sb.append(id).append(SUFFIX);
-
         // output
-        bw.write(sb.toString());
+        bw.write(id + SUFFIX);
 
         // io close
         bw.close();
