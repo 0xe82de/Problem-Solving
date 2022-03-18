@@ -12,7 +12,6 @@ import java.util.StringTokenizer;
 public class BOJ_2525_1 {
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("input.txt"));
         // io
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -27,11 +26,8 @@ public class BOJ_2525_1 {
         h = (h + (m + cookTime) / 60) % 24;
         m = (m + cookTime) % 60;
 
-        StringBuilder sb = new StringBuilder();
-        sb.append(h).append(" ").append(m);
-
         // output
-        bw.write(sb.toString());
+        bw.write(h + " " + m);
 
         // io close
         bw.close();
