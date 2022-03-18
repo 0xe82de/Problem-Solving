@@ -43,11 +43,8 @@ public class BOJ_2480_1 {
             result += 1000;
         }
 
-        StringBuilder sb = new StringBuilder();
-        sb.append(result);
-
         // output
-        bw.write(sb.toString());
+        bw.write(String.valueOf(result));
 
         // io close
         bw.close();
