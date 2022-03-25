@@ -170,7 +170,7 @@
 | 15650 |   [N과 M (2)](https://www.acmicpc.net/problem/15650)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15650_1.java) |  -   |    1    |     -     |                     백트래킹                     |
 | 15651 |   [N과 M (3)](https://www.acmicpc.net/problem/15651)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15651_1.java) |  -   |    1    |     -     |                     백트래킹                     |
 | 15652 |   [N과 M (4)](https://www.acmicpc.net/problem/15652)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15652_1.java) |  -   |    1    |     -     |                     백트래킹                     |
-| 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_1.java) |  -   |    1    |     O     |                        -                         |
+| 16926 | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16926_2.java) |  -   |    2    |     -     |                       구현                       |
 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17413_1.java) |  -   |    1    |     -     |                   구현, 문자열                   |
 |   ?   |                         [?](?)                         |                                            [Github]()                                             |  -   |    1    |     -     |                        -                         |
 
