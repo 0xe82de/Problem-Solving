@@ -297,7 +297,7 @@
 | 2675  |       [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2675_1.java)  |  -   |    1    |     -     |      구현      |
 | 2743  |     [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2743_1.java)  |  -   |    1    |     -     |  구현, 문자열  |
 | 2775  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2775_1.java)  |  -   |    1    |     -     |      수학      |
-| 2798  |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_1.java)  |  -   |    1    |     O     |      조합      |
+| 2798  |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_2.java)  |  -   |    2    |     -     |   브루트포스   |
 | 2908  |          [상수](https://www.acmicpc.net/problem/2908)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2908_1.java)  |  -   |    1    |     -     |      구현      |
 | 2920  |          [음계](https://www.acmicpc.net/problem/2920)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2920_1.java)  |  -   |    1    |     -     |      구현      |
 | 3040  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_3040_1.java)  |  -   |    1    |     -     |       -        |
