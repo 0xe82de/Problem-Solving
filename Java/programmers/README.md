@@ -6,10 +6,11 @@
 
 ### Level 3
 
-| 번호  |                                  이름                                  |                                                       코드                                                        | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :---: | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-| 42579 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_42579_1.java) |  -   |    1    |     -     | 해시 |
-|   ?   |                                 [?](?)                                 |                                                    [Github]()                                                     |  -   |    1    |     -     |  -   |
+| 번호  |                                  이름                                  |                                                       코드                                                        | 풀이 | 푼 횟수 | 복습 필요 |   비고   |
+| :---: | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :------: |
+| 42579 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_42579_1.java) |  -   |    1    |     -     |   해시   |
+| 43162 |  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_43162_1.java) |  -   |    1    |     O     | DFS, BFS |
+|   ?   |                                 [?](?)                                 |                                                    [Github]()                                                     |  -   |    1    |     -     |    -     |
 
 ### Level 2
 
