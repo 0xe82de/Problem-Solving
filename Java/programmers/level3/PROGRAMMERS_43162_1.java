@@ -1,7 +1,6 @@
 package programmers.level3;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.Arrays;
 import java.util.stream.IntStream;
 
 /**
@@ -44,11 +43,10 @@ public class PROGRAMMERS_43162_1 {
             }
         }
 
-        Set<Integer> networkTypes = new HashSet<>();
-        for (int network : networks) {
-            networkTypes.add(networks[network]);
-        }
-        answer = networkTypes.size();
+        answer = (int) Arrays.stream(networks)
+                .map(network -> networks[network])
+                .distinct()
+                .count();
 
         return answer;
     }
