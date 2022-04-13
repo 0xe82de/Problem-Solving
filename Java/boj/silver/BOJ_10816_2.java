@@ -30,7 +30,6 @@ public class BOJ_10816_2 {
     static int M;
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("input.txt"));
         // io
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
