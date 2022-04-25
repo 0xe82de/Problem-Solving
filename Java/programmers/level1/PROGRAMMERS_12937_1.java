@@ -1,4 +1,4 @@
-package solving;
+package programmers.level1;
 
 /**
  * PROGRAMMERS 12937 짝수와 홀수
