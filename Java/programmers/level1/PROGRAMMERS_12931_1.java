@@ -1,4 +1,4 @@
-package solving;
+package programmers.level1;
 
 /**
  * PROGRAMMERS 12931 자릿수 더하기
