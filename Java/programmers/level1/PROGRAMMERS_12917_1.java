@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 
 /**
  * PROGRAMMERS 12917 문자열 내림차순으로 배치하기
- * Level
+ * Level 1
  * 문자열
  */
 
