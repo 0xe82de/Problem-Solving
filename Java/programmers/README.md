@@ -36,6 +36,7 @@
 | 42888 |      [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_42888_1.java) |  -   |    1    |     -     |   구현    |
 | 43165 |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_43165_1.java) |  -   |    1    |     -     | DFS, BFS  |
 | 60057 |     [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_60057_1.java) |  -   |    1    |     -     |  문자열   |
+| 64065 |         [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_64065_1.java) |  -   |    1    |     -     |  문자열   |
 | 81302 |  [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_81302_1.java) |  -   |    1    |     O     |    DFS    |
 |   ?   |                                      [?](?)                                      |                                                    [Github]()                                                     |  -   |    1    |     -     |     -     |
 
