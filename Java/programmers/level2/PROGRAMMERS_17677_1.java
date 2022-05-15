@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * PROGRAMMERS 17677
+ * PROGRAMMERS 17677 [1차] 뉴스 클러스터링
  * Level 2
  * 맵
  */
