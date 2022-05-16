@@ -44,6 +44,7 @@
 | 60058 |       [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_60058_1.java) |  -   |    1    |     -     | 문자열, 스택, 재귀 |
 | 64065 |         [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_64065_1.java) |  -   |    1    |     -     |       문자열       |
 | 81302 |   [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_81302_1.java) |  -   |    1    |     O     |        DFS         |
+| 92341 |    [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_92341_1.java) |  -   |    1    |     -     |        구현        |
 |   ?   |                                      [?](?)                                       |                                                    [Github]()                                                     |  -   |    1    |     -     |         -          |
 
 ### Level 1
