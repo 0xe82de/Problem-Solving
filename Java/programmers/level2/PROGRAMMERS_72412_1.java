@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * PROGRAMMERS 72412 순위 검색
  * Level 2
- * 정렬
+ * 이분 탐색
  */
 
 public class PROGRAMMERS_72412_1 {
