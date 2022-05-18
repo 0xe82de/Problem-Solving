@@ -3,7 +3,7 @@ package programmers.level2;
 /**
  * PROGRAMMERS 12939 최댓값과 최솟값
  * Level 2
- * 정려
+ * 구현
  */
 
 public class PROGRAMMERS_12939_1 {
