@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * PROGRAMMERS 12973 짝지어 제거하기
  * Level 2
- * 구현
+ * 스택
  */
 
 public class PROGRAMMERS_12973_1 {
