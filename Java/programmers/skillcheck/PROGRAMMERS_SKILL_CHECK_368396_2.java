@@ -3,8 +3,8 @@ package programmers.skillcheck;
 import java.util.Arrays;
 
 /**
- * PROGRAMMERS SKILL CHECK 368396 문제 2
- * Level ?
+ * PROGRAMMERS SKILL CHECK 368396 2번 문제
+ * Level 1
  * 정렬
  */
 
