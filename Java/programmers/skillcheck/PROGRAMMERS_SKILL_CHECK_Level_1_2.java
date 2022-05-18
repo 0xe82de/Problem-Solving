@@ -3,12 +3,11 @@ package programmers.skillcheck;
 import java.util.Arrays;
 
 /**
- * PROGRAMMERS SKILL CHECK 368396 2번 문제
- * Level 1
+ * PROGRAMMERS SKILL CHECK Level 1 2번 문제
  * 정렬
  */
 
-public class PROGRAMMERS_SKILL_CHECK_368396_2 {
+public class PROGRAMMERS_SKILL_CHECK_Level_1_2 {
 
     public static void main(String[] args) {
         // input
