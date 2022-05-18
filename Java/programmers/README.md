@@ -6,12 +6,13 @@
 
 ### Skill Check
 
-|  번호   |  이름  |                                                                코드                                                                 | 풀이 | 푼 횟수 | 복습 필요 | 비고 |
-| :-----: | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :--: |
-| Level 2 | 문제 1 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_2_1.java) |  -   |    1    |     -     | 수학 |
-| Level 1 | 문제 1 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_1_1.java) |  -   |    1    |     -     |  DP  |
-| Level 1 | 문제 2 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_1_2.java) |  -   |    1    |     -     | 해시 |
-|    ?    | [?](?) |                                                             [Github]()                                                              |  -   |    1    |     -     |  -   |
+|  번호   |   이름   |                                                                코드                                                                 | 풀이 | 푼 횟수 | 복습 필요 |  비고  |
+| :-----: | :------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :----: |
+| Level 2 |  문제 1  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_2_1.java) |  -   |    1    |     -     |  수학  |
+| Level 2 | 2번 문제 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_2_2.java) |  -   |    1    |     -     | 문자열 |
+| Level 1 |  문제 1  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_1_1.java) |  -   |    1    |     -     |   DP   |
+| Level 1 |  문제 2  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_1_2.java) |  -   |    1    |     -     |  해시  |
+|    ?    |  [?](?)  |                                                             [Github]()                                                              |  -   |    1    |     -     |   -    |
 
 ### Level 3
 
