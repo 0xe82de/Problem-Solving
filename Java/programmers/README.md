@@ -6,7 +6,7 @@
 
 ### Skill Check
 
-|  번호   |   이름   |                                                                코드                                                                 | 풀이 | 푼 횟수 | 복습 필요 |  비고  |
+|  레벨   |   이름   |                                                                코드                                                                 | 풀이 | 푼 횟수 | 복습 필요 |  비고  |
 | :-----: | :------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--: | :-----: | :-------: | :----: |
 | Level 2 | 1번 문제 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_2_1.java) |  -   |    1    |     -     |  수학  |
 | Level 2 | 2번 문제 | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/skillcheck/PROGRAMMERS_SKILL_CHECK_Level_2_2.java) |  -   |    1    |     -     | 문자열 |
