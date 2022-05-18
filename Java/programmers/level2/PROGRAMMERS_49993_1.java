@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * PROGRAMMERS 49993 스킬트리
  * Level 2
- * 맵, 큐
+ * 큐
  */
 
 public class PROGRAMMERS_49993_1 {
