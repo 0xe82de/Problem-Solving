@@ -21,7 +21,7 @@
 | 12900 |  [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_12900_1.java) |  -   |    1    |     -     |    DP    |
 | 17678 | [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_17678_2.java) |  -   |    2    |     -     |   정렬   |
 | 42579 |   [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_42579_1.java) |  -   |    1    |     -     |   해시   |
-| 43162 |    [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_43162_1.java) |  -   |    1    |     O     | DFS, BFS |
+| 43162 |    [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_43162_2.java) |  -   |    2    |     O     | DFS, BFS |
 |   ?   |                                   [?](?)                                   |                                                    [Github]()                                                     |  -   |    1    |     -     |    -     |
 
 ### Level 2
