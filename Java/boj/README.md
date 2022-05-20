@@ -338,6 +338,7 @@
 | 15552 |        [빠른 A+B](https://www.acmicpc.net/problem/15552)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15552_1.java) |  -   |    1    |     -     |         구현         |
 | 15596 |     [정수 N개의 합](https://www.acmicpc.net/problem/15596)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15596_1.java) |  -   |    1    |     -     |         구현         |
 | 15829 |        [Hashing](https://www.acmicpc.net/problem/15829)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_15829_1.java) |  -   |    1    |     -     |         해싱         |
+| 18406 |    [럭키 스트레이트](https://www.acmicpc.net/problem/18406)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_18406_1.java) |  -   |    1    |     -     |     구현, 문자열     |
 |   ?   |                             [?](?)                              |                                            [Github]()                                             |  -   |    1    |     -     |          -           |
 
 ### Bronze 3
