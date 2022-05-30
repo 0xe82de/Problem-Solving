@@ -92,6 +92,7 @@
 
 | 번호  |                           이름                           |                                               코드                                                | 풀이 | 푼 횟수 |                  복습 필요                   | 비고 |
 | :---: | :------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: | :-----: | :------------------------------------------: | ---- |
+| 1074  |        [Z](https://www.acmicpc.net/problem/1074)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1074_1.java)  |  1   |    O    |               분할 정복, 재귀                |
 | 1149  |     [RGB거리](https://www.acmicpc.net/problem/1149)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1149_2.java)  |  2   |    -    |                      DP                      |
 | 1629  |       [곱셈](https://www.acmicpc.net/problem/1629)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1629_1.java)  |  1   |    O    |      수학, 분할 정복을 이용한 거듭제곱       |
 | 1697  |     [숨바꼭질](https://www.acmicpc.net/problem/1697)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_1697_2.java)  |  1   |    -    |                     BFS                      |
