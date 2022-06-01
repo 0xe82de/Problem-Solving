@@ -23,6 +23,7 @@
 | 42579 |   [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_42579_1.java) |    1    |     -     |   해시   |
 | 43162 |    [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_43162_2.java) |    2    |     O     | DFS, BFS |
 | 60059 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_60059_1.java) |    1    |     O     |   구현   |
+| 60061 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_60061_1.java) |    1    |     -     |   구현   |
 |   ?   |                                   [?](?)                                   |                                                    [Github]()                                                     |    1    |     -     |    -     |
 
 ### Level 2
