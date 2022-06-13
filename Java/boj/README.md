@@ -63,7 +63,7 @@
 | 17135 |       [캐슬 디펜스](https://www.acmicpc.net/problem/17135)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17135_1.java) |    1    |     -     | -                                                        |
 | 17144 |      [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17144_1.java) |    1    |     -     | 구현                                                     |
 | 17298 |          [오큰수](https://www.acmicpc.net/problem/17298)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17298_1.java) |    1    |     -     | 자료구조, 스택                                           |
-| 17406 |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_1.java) |    2    |     O     | -                                                        |
+| 17406 |      [배열 돌리기 4](https://www.acmicpc.net/problem/17406)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_17406_2.java) |    2    |     -     | 구현, 브루트포스, 백트래킹                               |
 |   ?   |                              [?](?)                               |                                           [Github]()                                            |    1    |     -     | -                                                        |
 
 ### Gold 5
