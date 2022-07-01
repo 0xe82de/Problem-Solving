@@ -305,7 +305,7 @@
 | 11576 |    [Base Conversion](https://www.acmicpc.net/problem/11576)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11576_1.java) |    1    |     -     |                 -                  |
 | 11650 |     [좌표 정렬하기](https://www.acmicpc.net/problem/11650)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11650_1.java) |    1    |     -     |                정렬                |
 | 11651 |    [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11651_1.java) |    1    |     -     |                정렬                |
-| 11723 |          [집합](https://www.acmicpc.net/problem/11723)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11723_3.java) |    3    |     O     |          구현, 비트마스킹          |
+| 11723 |          [집합](https://www.acmicpc.net/problem/11723)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11723_4.java) |    4    |     -     |          구현, 비트마스킹          |
 | 11728 |      [배열 합치기](https://www.acmicpc.net/problem/11728)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11728_1.java) |    1    |     -     |                 -                  |
 | 11931 |     [수 정렬하기 4](https://www.acmicpc.net/problem/11931)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11931_1.java) |    1    |     -     |                정렬                |
 | 17478 |   [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_3.java) |    3    |     -     |             구현, 재귀             |
@@ -349,7 +349,7 @@
 | 2309  |       [일곱 난쟁이](https://www.acmicpc.net/problem/2309)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2309_1.java)  |    1    |     -     |          -           |
 | 2490  |         [윷놀이](https://www.acmicpc.net/problem/2490)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2490_1.java)  |    1    |     -     |         구현         |
 | 2562  |         [최댓값](https://www.acmicpc.net/problem/2562)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2562_1.java)  |    1    |     -     |         구현         |
-| 2577  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2577_2.java)  |    -    |     -     | 수학, 구현, 사칙연산 |
+| 2577  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2577_2.java)  |    2    |     -     | 수학, 구현, 사칙연산 |
 | 2605  |        [줄 세우기](https://www.acmicpc.net/problem/2605)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2605_1.java)  |    1    |     -     |         구현         |
 | 2675  |       [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2675_1.java)  |    1    |     -     |         구현         |
 | 2743  |     [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2743_1.java)  |    1    |     -     |     구현, 문자열     |
