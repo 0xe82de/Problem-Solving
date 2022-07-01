@@ -43,7 +43,7 @@
 
 | 번호  |                               이름                                |                                              코드                                               | 푼 횟수 | 복습 필요 | 비고                                                     |
 | :---: | :---------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-----: | :-------: | -------------------------------------------------------- |
-| 1197  |     [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1197_1.java)  |    1    |     -     | 최소 스패닝 트리                                         |
+| 1197  |     [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1197_2.java)  |    2    |     -     | 최소 스패닝 트리                                         |
 | 1339  |         [단어 수학](https://www.acmicpc.net/problem/1339)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1339_1.java)  |    1    |     -     | 그리디, 브루트포스                                       |
 | 1600  |    [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1600_3.java)  |    3    |     O     | BFS                                                      |
 | 1707  |        [이분 그래프](https://www.acmicpc.net/problem/1707)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/gold/BOJ_1707_1.java)  |    1    |     O     | BFS, DFS                                                 |
