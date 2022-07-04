@@ -16,15 +16,16 @@
 
 ### Level 3
 
-| 번호  |                                    이름                                    |                                                       코드                                                        | 푼 횟수 | 복습 필요 |   비고   |
-| :---: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----: | :-------: | :------: |
-| 12900 |  [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_12900_1.java) |    1    |     -     |    DP    |
-| 17678 | [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_17678_2.java) |    2    |     -     |   정렬   |
-| 42579 |   [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_42579_1.java) |    1    |     -     |   해시   |
-| 43162 |    [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_43162_2.java) |    2    |     O     | DFS, BFS |
-| 60059 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_60059_1.java) |    1    |     O     |   구현   |
-| 60061 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_60061_1.java) |    1    |     -     |   구현   |
-|   ?   |                                   [?](?)                                   |                                                    [Github]()                                                     |    1    |     -     |    -     |
+| 번호  |                                     이름                                     |                                                       코드                                                        | 푼 횟수 | 복습 필요 |   비고   |
+| :---: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----: | :-------: | :------: |
+| 12900 |   [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_12900_1.java) |    1    |     -     |    DP    |
+| 17678 |  [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_17678_2.java) |    2    |     -     |   정렬   |
+| 42579 |    [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_42579_1.java) |    1    |     -     |   해시   |
+| 43162 |     [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_43162_2.java) |    2    |     O     | DFS, BFS |
+| 60059 |  [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_60059_1.java) |    1    |     O     |   구현   |
+| 60061 |  [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_60061_1.java) |    1    |     -     |   구현   |
+| 77486 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level3/PROGRAMMERS_77486_1.java) |    1    |     O     |   DFS    |
+|   ?   |                                    [?](?)                                    |                                                    [Github]()                                                     |    1    |     -     |    -     |
 
 ### Level 2
 
@@ -40,6 +41,7 @@
 | 12939 |      [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12939_1.java) |    1    |     -     |        구현        |
 | 12941 |       [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12941_1.java) |    1    |     -     |        구현        |
 | 12945 |        [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12945_1.java) |    1    |     -     |         DP         |
+| 12946 |        [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12946_1.java) |    1    |     O     |        구현        |
 | 12949 |        [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12949_1.java) |    1    |     -     |        수학        |
 | 12951 |  [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12951_1.java) |    1    |     -     |       문자열       |
 | 12953 |      [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_12953_1.java) |    1    |     -     |        수학        |
@@ -72,7 +74,7 @@
 | 67257 |        [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_67257_2.java) |    2    |     -     |        순열        |
 | 72411 |        [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_72411_2.java) |    2    |     -     |        구현        |
 | 72412 |         [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_72412_2.java) |    2    |     O     |     이분 탐색      |
-| 77485 |    [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_77485_1.java) |    1    |     -     |        구현        |
+| 77485 |    [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_77485_2.java) |    2    |     -     |        구현        |
 | 81302 |     [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_81302_1.java) |    1    |     O     |        DFS         |
 | 92335 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_92335_2.java) |    2    |     -     |        수학        |
 | 92341 |       [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level2/PROGRAMMERS_92341_1.java) |    1    |     -     |        구현        |
@@ -129,7 +131,7 @@
 | 70128 |             [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)             | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_70128_1.java) |    1    |     -     |             구현             |
 | 72410 |       [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_72410_1.java) |    1    |     -     |         구현, 문자열         |
 | 76501 |         [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_76501_1.java) |    1    |     -     |             구현             |
-| 77484 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_77484_1.java) |    1    |     -     |              -               |
+| 77484 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_77484_1.java) |    2    |     -     |              -               |
 | 77884 |      [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_77884_1.java) |    1    |     -     |             구현             |
 | 81301 |     [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_81301_1.java) |    1    |     -     |            문자열            |
 | 82612 |     [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)     | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/programmers/level1/PROGRAMMERS_82612_1.java) |    1    |     -     |             구현             |
