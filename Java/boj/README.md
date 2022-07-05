@@ -356,7 +356,8 @@
 | 2577  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2577_2.java)  |    2    |     -     |   수학, 구현, 사칙연산   |
 | 2605  |        [줄 세우기](https://www.acmicpc.net/problem/2605)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2605_1.java)  |    1    |     -     |           구현           |
 | 2675  |       [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2675_1.java)  |    1    |     -     |           구현           |
-| 2743  |     [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2743_1.java)  |    1    |     -     |       구현, 문자열       |
+| 2743  |     [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2743_1.java)  |    1    |     -     |    수학, 구현, 문자열    |
+| 2745  |        [진법 변환](https://www.acmicpc.net/problem/2745)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2745_1.java)  |    1    |     -     |       구현, 문자열       |
 | 2775  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2775_1.java)  |    1    |     -     |           수학           |
 | 2798  |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2798_2.java)  |    2    |     -     |        브루트포스        |
 | 2908  |          [상수](https://www.acmicpc.net/problem/2908)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2908_1.java)  |    1    |     -     |           구현           |
