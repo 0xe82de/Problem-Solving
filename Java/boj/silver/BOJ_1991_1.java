@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * BOJ 1991 트리 순회
- * ?>
+ * S1
  * 트리, 재귀
  */
 
