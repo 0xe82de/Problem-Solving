@@ -172,6 +172,7 @@
 | 18352 |   [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18352_2.java) |    2    |     -     |               BFS, 다익스트라                |
 | 18442 |          [우체국 1](https://www.acmicpc.net/problem/18442)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18442_1.java) |    1    |     -     |                  브루트포스                  |
 | 18870 |         [좌표 압축](https://www.acmicpc.net/problem/18870)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18870_1.java) |    1    |     -     |             정렬, 값 / 좌표 압축             |
+| 20365 |          [블로그2](https://www.acmicpc.net/problem/20365)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_20365_1.java) |    1    |     -     |                문자열, 그리디                |
 |   ?   |                               [?](?)                                |                                            [Github]()                                             |    1    |     -     |                      -                       |
 
 ### Silver 3
