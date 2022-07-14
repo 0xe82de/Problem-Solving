@@ -138,6 +138,7 @@
 | 14888 |    [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)    | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_14888_1.java) |  1   |    -    |             브루트포스, 백트래킹             |
 | 15662 |     [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_15662_1.java) |  1   |    -    |                     구현                     |
 | 16953 |         [A → B](https://www.acmicpc.net/problem/16953)         | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_16953_1.java) |  1   |    -    |                 그리디, BFS                  |
+| 21758 |        [꿀 따기](https://www.acmicpc.net/problem/21758)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_21758_1.java) |  1   |    O    |       그리디, 누적 합, 많은 조건 분기        |
 |   ?   |                             [?](?)                             |                                            [Github]()                                             |  1   |    -    |                      -                       |
 
 ### Silver 2
