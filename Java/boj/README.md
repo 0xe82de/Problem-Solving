@@ -360,6 +360,7 @@
 | 번호  |                              이름                               |                                               코드                                                | 푼 횟수 | 복습 필요 |           비고           |
 | :---: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----: | :-------: | :----------------------: |
 | 1152  |       [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1152_1.java)  |    1    |     -     |            -             |
+| 1212  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_1212_1.java)  |    1    |     -     |    수학, 구현, 문자열    |
 | 2231  |         [분해합](https://www.acmicpc.net/problem/2231)          | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2231_1.java)  |    1    |     -     |        브루트포스        |
 | 2292  |          [벌집](https://www.acmicpc.net/problem/2292)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2292_1.java)  |    1    |     -     |           수학           |
 | 2309  |       [일곱 난쟁이](https://www.acmicpc.net/problem/2309)       | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_2309_1.java)  |    1    |     -     |            -             |
