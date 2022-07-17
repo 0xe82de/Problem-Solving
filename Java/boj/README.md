@@ -325,6 +325,7 @@
 | 11931 |     [수 정렬하기 4](https://www.acmicpc.net/problem/11931)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_11931_1.java) |    1    |     -     |                정렬                |
 | 14916 |        [거스름돈](https://www.acmicpc.net/problem/14916)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_14916_2.java) |    2    |     -     |          수학, DP, 그리디          |
 | 17478 |   [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17478_3.java) |    3    |     -     |             구현, 재귀             |
+| 20546 |  [🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_20546_1.java) |    1    |     -     |                구현                |
 |   ?   |                             [?](?)                              |                                            [Github]()                                             |    1    |     -     |                 -                  |
 
 ### Bronze 1
