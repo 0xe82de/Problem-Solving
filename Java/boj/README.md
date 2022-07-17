@@ -438,6 +438,7 @@
 | 11021 |     [A+B - 7](https://www.acmicpc.net/problem/11021)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11021_1.java)  |    1    |     -     |         구현         |
 | 11022 |     [A+B - 8](https://www.acmicpc.net/problem/11022)      | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11022_1.java)  |    1    |     -     |         구현         |
 | 11718 | [그대로 출력하기](https://www.acmicpc.net/problem/11718)  | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_11718_1.java)  |    1    |     -     |         구현         |
+| 20053 |   [최소, 최대 2](https://www.acmicpc.net/problem/20053)   | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/bronze/BOJ_20053_1.java)  |    1    |     -     |         구현         |
 |   ?   |                          [?](?)                           |                                             [Github]()                                             |    1    |     -     |          -           |
 
 ### Bronze 4
