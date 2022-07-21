@@ -280,6 +280,7 @@
 | 17219 |       [비밀번호 찾기](https://www.acmicpc.net/problem/17219)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17219_1.java) |    1    |     -     |         자료 구조, 해시를 사용한 집합과 맵          |
 | 17626 |        [Four Squares](https://www.acmicpc.net/problem/17626)        | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_17626_1.java) |    1    |     -     |                   DP, 브루트포스                    |
 | 18258 |            [큐 2](https://www.acmicpc.net/problem/18258)            | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_18258_1.java) |    1    |     -     |                    자료 구조, 큐                    |
+| 20436 |           [ZOAC 3](https://www.acmicpc.net/problem/20436)           | [Github](https://github.com/0xe82de/Problem-Solving/blob/master/Java/boj/silver/BOJ_20436_1.java) |    1    |     -     |              구현, 런타임 전의 전처리               |
 |   ?   |                               [?](?)                                |                                            [Github]()                                             |    1    |     -     |                          -                          |
 
 ### Silver 5
